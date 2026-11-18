@@ -1,0 +1,5 @@
+configuracao,imagens,cer_medio,cer_mediana,cer_desvio,wer_medio,confianca_media,tempo_medio_s
+Sem pré-processamento,60,0.3113,0.3896,0.2236,0.4745,0.8209,6.6366
+Iluminação + inclinação,60,0.0447,0.0325,0.0465,0.2061,0.7619,7.2666
+Completo (+ remoção de ruído),60,0.0445,0.0239,0.0684,0.1916,0.7555,7.5117
+Completo + binarização,60,0.0888,0.0399,0.1450,0.2898,0.6964,7.3977

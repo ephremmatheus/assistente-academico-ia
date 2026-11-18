@@ -1,0 +1,37 @@
+Imagem: sintetica_000.jpg
+
+=== Gabarito ===
+A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem energia
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás
+carbônico e água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin.
+
+=== Sem pré-processamento (CER 0.310, WER 0.484) ===
+fotossíntese é processo pelo qual plantas, algas algumas bactérias convertem energia a luz e, a partir de gás
+absorve
+luminosa em energia química. Nos cloroplastos; a clorofila ocorre em duas fases: a
+carbônico água, a célula produz glicose libera oxigênio. Esse processo também chamada de ciclo de
+fase clara, que depende diretamente da luz, e a fase escura,
+Calvin.
+
+=== Iluminação + inclinação (CER 0.008, WER 0.031) ===
+A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energia
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás
+carbônico e água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin.
+
+=== Completo (+ remoção de ruído) (CER 0.016, WER 0.062) ===
+A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energia
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás
+carbônico água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin:
+
+=== Completo + binarização (CER 0.027, WER 0.109) ===
+A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energla
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, ª partir de gás
+carbônico água, célula produz glicose e libera oxigênio: Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin.

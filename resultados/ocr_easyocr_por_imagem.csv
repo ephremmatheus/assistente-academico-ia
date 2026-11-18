@@ -1,0 +1,1292 @@
+arquivo,configuracao,cer,wer,confianca_media,angulo_corrigido,tempo_s,texto_ocr
+sintetica_000.jpg,Sem pré-processamento,0.3103448275862069,0.484375,0.8830084313939527,0.0,14.445415800029878,"fotossíntese é processo pelo qual plantas, algas algumas bactérias convertem energia a luz e, a partir de gás
+absorve
+luminosa em energia química. Nos cloroplastos; a clorofila ocorre em duas fases: a
+carbônico água, a célula produz glicose libera oxigênio. Esse processo também chamada de ciclo de
+fase clara, que depende diretamente da luz, e a fase escura,
+Calvin."
+sintetica_000.jpg,Iluminação + inclinação,0.007957559681697613,0.03125,0.7733619517544063,-2.85,6.4826258000102825,"A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energia
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás
+carbônico e água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin."
+sintetica_000.jpg,Completo (+ remoção de ruído),0.015915119363395226,0.0625,0.881211370494251,-2.85,8.043550800008234,"A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energia
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás
+carbônico água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin:"
+sintetica_000.jpg,Completo + binarização,0.026525198938992044,0.109375,0.7980356936751796,-2.85,8.116910199983977,"A fotossíntese é 0 processo pelo qual plantas, algas algumas bactérias convertem energla
+luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, ª partir de gás
+carbônico água, célula produz glicose e libera oxigênio: Esse processo ocorre em duas fases: a
+fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de
+Calvin."
+sintetica_001.jpg,Sem pré-processamento,0.4338461538461538,0.5102040816326531,0.8458299188092724,0.0,5.349324900016654,"A mitose é a divisão celular
+célula- mãe. Ela é dividida em prófase, que origina duas células-filhas geneticamente idênticas à
+produz quatro células com metáfase; anáfase e telófase; Já meiose
+formação dos gametas, contribuindo metade do número de cromossomos e é responsável pela
+para a variabilidade
+genética das espécies"
+sintetica_001.jpg,Iluminação + inclinação,0.018461538461538463,0.10204081632653061,0.8478708894660404,3.2,6.3486789999878965,"A mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à
+célula-mãe Ela é dividida em prófase; metáfase, anáfase e telófase. Já a meiose
+produz quatro células com metade do número de cromossomos ee responsável pela
+formação dos gametas, contribuindo para variabilidade genética das espécies."
+sintetica_001.jpg,Completo (+ remoção de ruído),0.006153846153846154,0.04081632653061224,0.7852818990620758,3.2,5.753613500040956,"A mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à
+célula-mãe. Ela é dividida em prófase; metáfase; anáfase e telófase. Já a meiose
+produz quatro células com metade do número de cromossomos e é responsável pela
+formação dos gametas, contribuindo para a variabilidade genética das espécies."
+sintetica_001.jpg,Completo + binarização,0.021538461538461538,0.12244897959183673,0.6060196580869085,3.2,6.178586599999107,"mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à
+célula-mae. Ela é dlvidida em prófase; metáfase, anáfase e telófase. Já a meiose
+produz quatro células com metade do número de cromossomos e é responsável pela
+formaçao dos gametas, contribuindo para a variabllidade genética das espécies."
+sintetica_002.jpg,Sem pré-processamento,0.5338541666666666,0.6379310344827587,0.8565006248352908,0.0,7.853274599998258,"na segunda metade do século
+A Revolução Industrial começou na Inglaterra. manual pelas máquinas, especialmente com
+XVIII A substituição do trabalho transformou a produção têxtil e acelerou 0
+0 uSo da máquina a vapor. surgiram jornadas de trabalho
+crescimento das cidades. Ao mesmo tempo, nas fábricas; 0 que deu origem aos primeiros
+longas e condições precárias
+movimentos operários."
+sintetica_002.jpg,Iluminação + inclinação,0.018229166666666668,0.1206896551724138,0.7526227711312318,-4.4,8.118267900019418,"A Revolução Industrial começou na Inglaterra, na segunda metade do século
+XVIII A substituição do trabalho manual pelas máquinas, especialmente com
+0 usO da máquina a vapor, transformou a produção têxtil € acelerou 0
+crescimento das cidades. Ao mesmo tempo, surgiram jornadas de trabalho
+longas e condições precárias nas fábricas; 0 que deu origem aos primeiros
+movimentos operários."
+sintetica_002.jpg,Completo (+ remoção de ruído),0.03125,0.1896551724137931,0.766587211008329,-4.4,7.923478700045962,"A Revolução Industrial começou na Inglaterra. na segunda metade do século
+XVIII A substituição do trabalho manual pelas máquinas, especialmente com
+0 usO da máquina 1 vapor. transformou a produção têxtil € acelerou
+crescimento das cidades. Ao mesmo tempo, surgiram jornadas de trabalho
+longas € condições precárias nas fábricas; 0 que deu origem aos primeiros
+movimentos operários."
+sintetica_002.jpg,Completo + binarização,0.044270833333333336,0.22413793103448276,0.7212371375002578,-4.4,9.6625103999977,"Revolução Industrial começou na Inglalerra. na segunda metade do século
+XVIIL. A substituição do trabalho manual pelas máquinas. especialmente com
+uso da máquina a vapor, transformou a produção têxlil € acelerou
+crescimento das cidades. Ao mesmo tempo. surgiram jornadas dc trabalho
+longas e condições precárias nas fábricas; 0 quc deu origem aos primeiros
+movimentos operários."
+sintetica_003.jpg,Sem pré-processamento,0.0647887323943662,0.1935483870967742,0.7440123340189201,0.0,4.510816800000612,"A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom Pedro 1, às
+real a margens do riacho Ipiranga; em São Paulo. 0 processo fol influenciado pela volta da família
+Portugal e pela pressão das Cortes portuguesas para que 0 Brasil retornasse
+condição de colônia. Após a independência, 0 país adotou a monarquia como forma de
+governo"
+sintetica_003.jpg,Iluminação + inclinação,0.016901408450704224,0.08064516129032258,0.8213381193447651,1.45,5.386106199992355,"A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom Pedro |, às
+margens do riacho Ipiranga, em São Paulo. 0 processo foi influenciado pela volta da família
+real a Portugal e pela pressão das Cortes portuguesas para que 0 Brasil retornasse à
+condição de colônia. Após a independência, 0 país adotou monarquia como forma de
+governo."
+sintetica_003.jpg,Completo (+ remoção de ruído),0.01971830985915493,0.0967741935483871,0.7397944037791582,1.45,6.17912330001127,"Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom Pedro |, às
+margens do riacho Ipiranga, em São Paulo. 0 processo fol influenciado pela volta da família
+real a Portugal e pela pressão das Cortes portuguesas para que 0 Brasil retornasse à
+condição de colônia. Após a independência, 0 país adotou a monarquia como forma de
+governo."
+sintetica_003.jpg,Completo + binarização,0.036619718309859155,0.1935483870967742,0.716412563958531,1.45,6.774899700016249,"Independêncla do Brasll fol proclamada em 7 de setembro de 1822, por Dom Pedro I, às
+margens do riacho Ipiranga, em São Paulo. 0 processo fol Influenciado pela volta da família
+real a Portugal e pela pressão das Cortes portuguesas para que 0 Brasil retornasse à
+condição de colônia. Após a independêncla, 0 pals adotou a monarquia como forma de
+governo_"
+sintetica_004.jpg,Sem pré-processamento,0.17681159420289855,0.6031746031746031,0.8201593461873232,0.0,5.571859500021674,"teorena de Pltágoras afirma que , en todo triangulo retangulo, quadrado da
+hipotenusa 1gual soma dos quadrados dos catetos hipotenusa lado
+oposto ao angulo reto tanben Maior lado do trlangulo Por exemplo , s€ os
+catetos meden centimetros hipotenusa mede centinetros , pois nove
+mals dezesseis igual vinte Cinco"
+sintetica_004.jpg,Iluminação + inclinação,0.14782608695652175,0.5079365079365079,0.8024252186726906,-0.65,6.435759999963921,"teorena de Pitágoras afirma que , en todo triângulo retangulo, quadrado da
+hipotenusa igual sona dos quadrados dos Catetos hipotenusa lado
+oposto ao ângulo reto tanbem maior lado do trlangulo Por exemplo, se o5
+catetos meden 3 centimetros nipotenusa mede 5 centimetros, pois nove
+mals dezesseis 1gual vinte Cinco."
+sintetica_004.jpg,Completo (+ remoção de ruído),0.12753623188405797,0.49206349206349204,0.8003074694984896,-0.6,5.872062200040091,"0 teorena de Pitagoras afirma que , en todo triângulo retângulo, quadrado da
+hipotenusa é 1gual soma dos quadrados dos Catetos 4 hipotenusa lado
+oposto a0 ângulo reto tanbem maior lado do trlangulo . Por exemplo, se 0s
+catetos meden 3 centímetros, nipotenusa mede 5 centínetros, pois nove
+mals dezesseis é 1gual vinte Cinco."
+sintetica_004.jpg,Completo + binarização,0.1681159420289855,0.6031746031746031,0.6055315217871983,-0.6,5.506248399964534,"teorema de Pitdgoras aflrme que 00 todo trlingulo retangulo, quadrndo da
+hJpotenusa 1gual Soma dos quadrados dos catetos_ A hipotenusa 0 lado
+oposto 80 angulo reto tambéa malor lado do trlangulo. Por exemplo, se 0s
+catetos medem 3 centímetros hipotenusa mede 5 centímetros pols nove
+Mas dezessels 1gual vinte cInco_"
+sintetica_005.jpg,Sem pré-processamento,0.03560830860534125,0.09859154929577464,0.8044771032896788,0.0,5.811639700026717,"Uma função do primeiro grau tem a forma f(x) = ax + b, em
+que a e b são números reais e a é diferente de zero. Seu
+gráfico é sempre uma reta. da coeficiente a indica a inclinação
+reta: quando ele é positivo, a função é crescente, e quando
+negativo, a função é decrescente. coeficiente b indica 0
+ponto em que a reta corta 0 eixo Y."
+sintetica_005.jpg,Iluminação + inclinação,0.03560830860534125,0.14084507042253522,0.8080995307269034,2.5,6.50276840000879,"Uma função do primeiro grau tem a forma f(x) =ax + b em
+que a e b são números reais e a é diferente de zero. Seu
+gráfico é sempre uma reta. coeficiente a indica a inclinação
+da reta: quando ele é positivo, a função é crescente, e quando
+negativo; a função é decrescente. coeficiente b indica 0
+ponto em que a reta corta 0 eixo Y."
+sintetica_005.jpg,Completo (+ remoção de ruído),0.020771513353115726,0.11267605633802817,0.7873171980941193,2.5,8.034328699985053,"Uma função do primeiro grau tem a forma f(x) =ax + b, em
+que a e b são números reais e a é diferente de zero. Seu
+gráfico é sempre uma reta. 0 coeficiente a indica a inclinação
+da reta: quando ele é positivo, a função é crescente, e quando
+é negativo; a função é decrescente. 0 coeficiente b indica 0
+ponto em que a reta corta 0 eixo Y."
+sintetica_005.jpg,Completo + binarização,0.02967359050445104,0.11267605633802817,0.8271299834056125,2.5,8.046623200003523,"Uma função do primeiro grau tem a forma f(x) =ax + b, em
+que a e b são números reais e a é diferente de zero. Seu
+gráfico é sempre uma reta. coeficiente a indica a inclinação
+da reta: quando ele é positivo; a função é crescente, e quando
+negativo, a função é decrescente. coeficiente b indica 0
+ponto em que a reta corta 0 eixo y."
+sintetica_006.jpg,Sem pré-processamento,0.5179640718562875,0.7254901960784313,0.916759655950795,0.0,5.895584299985785,"tabela periódica organiza os elementos
+corresponde à quantidade de prótons no núcleo. químicos em ordcm crescente de número atômico; que
+reúnen elementos com As colunas são chamadas de famílias ou grupos
+indicam 0 número de camadas propriedades químicas semelhantes . eletrônicas dos átomos . As linhas horizontais são os períodos"
+sintetica_006.jpg,Iluminação + inclinação,0.014970059880239521,0.13725490196078433,0.7498592757548044,3.5,5.848019500030205,"A tabela periódica organiza os elementos químicos em ordem crescente de número atômico; que
+corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias ou grupos e
+reúnen elementos com propriedades químicas semelhantes . As linhas horizontais são os períodos
+e indicam 0 número de camadas eletrônicas dos átomos ."
+sintetica_006.jpg,Completo (+ remoção de ruído),0.020958083832335328,0.1568627450980392,0.7775768452724999,3.5,6.956492999976035,"tabela periódica organiza os elementos químicos em ordem crescente de número atômico; que
+corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias ou grupos e
+reúnen elementos com propriedades químicas semelhantes . As linhas horizontais são os períodos
+e indicam 0 número de camadas eletrônicas dos átomos ."
+sintetica_006.jpg,Completo + binarização,0.029940119760479042,0.1568627450980392,0.7435588669496307,3.5,6.183370699989609,"A tabela periódica organiza os elementos químic Icos em ordem crescente de número atômico; que
+corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias ou grupos €
+reúnen elementos com propriedades químicas semelhantes. As linhas horizontais são os períodos
+indicam 0 número de camadas eletrônicas dos átomos"
+sintetica_007.jpg,Sem pré-processamento,0.6005830903790087,0.7575757575757576,0.9736709060531287,0.0,9.105383299989626,"reage com uma
+acontece quando um ácido entre
+de neutralização clássico é a reação de
+Uma reação sal água Um exemplo que produz cloreto
+base, formando hidróxido de sódio de uma solução: valores
+ácido clorídrico 0 pH mede acidez meio básico igual a 7
+sal de cozinha acima de 7
+sódio, indicam meio ácido
+abaixo de 7
+meio neutro."
+sintetica_007.jpg,Iluminação + inclinação,0.05539358600583091,0.18181818181818182,0.9772421779476522,-5.85,10.521747099992353,"Uma reação de neutralização acontece quando um ácido reage com uma
+base, formando sal água Um exemplo clássico é reação entre
+ácido clorídrico e hidróxido de sódio, que produz cloreto de
+sódio, sal de cozinha 0 pH mede acidez de uma solução: valores
+abaixo de 7 indicam meio ácido acima de 7 meio básico igual a 7
+meio neutro"
+sintetica_007.jpg,Completo (+ remoção de ruído),0.04956268221574344,0.19696969696969696,0.9590800068955295,-5.85,10.453366699977778,"Uma reação de neutralização acontece quando um ácido reage com uma
+base , formando sal água _ Um exemplo clássico é à reação entre
+ácido clorídrico e 0 hidróxido de sódio, que produz cloreto de
+sódio sal de cozinha 0 pH mede acidez de uma solução: valores
+abaixo de 7 indicam meio ácido acima de 7 meio básico e igual a 7
+meio neutro."
+sintetica_007.jpg,Completo + binarização,0.061224489795918366,0.22727272727272727,0.84144655083241,-5.85,10.618581100017764,"Uma reação de neutralização acontece quando um ácido reage com uma
+base _ formando sal água _ Um exemplo clássico é a reação entre
+ácido clorídrico e hidróxido de sódio  que produz cloreto de
+sódio, sal de cozinha_ 0 pH mede à acidez de uma solução: valores
+abaixo de 7 indicam meio ácido . acima de 7 meio básico igual a 7
+meio neutro-"
+sintetica_008.jpg,Sem pré-processamento,0.5111111111111111,0.75,0.9025028395650662,0.0,6.797383000026457,"0 clima
+se caracteriza semiárido predomina em grande parte
+por do
+poucos meses do ano chuvas escassas 4 irregulares Nordeste brasileiro
+formada por plantas vegetação típica dessa região concentradas en
+arvores que perdem as adaptadas folhas falta de agua , como Caatinga ,
+durante estação cactos
+seca ."
+sintetica_008.jpg,Iluminação + inclinação,0.08253968253968254,0.36538461538461536,0.9046435861261481,5.2,9.028888000000734,"0 clima semlarido predomina em grande parte do Nordeste brasileiro
+se caracteriza por Chuvas escassas irregulares concentradas en
+poucos meses do ano . 4 vegetação típica dessa região Caatinga,
+formada por plantas adaptadas falta de agua cono cactos
+arvores que perdem as folhas durante 2 estação seca,"
+sintetica_008.jpg,Completo (+ remoção de ruído),0.06984126984126984,0.3269230769230769,0.8802747483800256,5.2,8.247447400004603,"clíma semiarido predomina em grande parte do Nordeste brasileiro
+se caracteriza por chuvas escassas irregulares concentradas e
+poucos meses do ano . A vegetação típica dessa região Caatinga,
+formada por plantas adaptadas 0 falta de agua , como cactos
+arvores que perdem as folhas durante 0 estação seca."
+sintetica_008.jpg,Completo + binarização,0.1111111111111111,0.5384615384615384,0.6317824035901702,5.2,9.063062599976547,"clíma semiárido predouina e9 grande parte do Nordeste brasileiro
+se caracteriz por chuvos escassas irrequlares, concentradas @0
+poucos beses do ano _ 4 vegetação típica dessa regifo 0 Caatínga,
+formado por plantas adaptadas 4 falte de 6gu3, codo cactos
+árvores que perdem 8s folhas durpnte 0 estação seca,"
+sintetica_009.jpg,Sem pré-processamento,0.4551282051282051,0.6346153846153846,0.9702816621470519,0.0,7.576453800022136,"As placas tectônicas são
+movimentam lentamente grandes blocos que formam litosfera se
+sobre manto Nas bordas onde as placas
+ocorrem terremotos , vulcões formação de cadeias se encontram
+Cordilhei ra dos Andes , por exemplo , de montanhas . A
+placa Sul-Americana surgiu do choque entre placa de Nazca"
+sintetica_009.jpg,Iluminação + inclinação,0.07371794871794872,0.2692307692307692,0.9778025871723972,2.8,7.426232900004834,"As placas tectônicas são grandes blocos que formam litosfera se
+movimentam lentamente sobre manto Nas bordas onde as placas se encontram
+ocorrem terremotos vulcões formação de cadeias de montanhas
+Cordilheira dos Andes por exemplo, surgiu do choque entre placa de Nazca
+placa Sul-Americana"
+sintetica_009.jpg,Completo (+ remoção de ruído),0.04487179487179487,0.21153846153846154,0.9185848333908646,2.8,7.619560000021011,"As placas tectônicas são grandes blocos que formam a litosfera se
+movimentam lentamente sobre manto. Nas bordas onde as placas se encontram
+ocorrem terremotos , vulcões formação de cadeias de montanhas  A
+Cordilheira dos Andes por exemplo, surgiu do choque entre a placa de Nazca
+a placa Sul-Americana ."
+sintetica_009.jpg,Completo + binarização,0.07692307692307693,0.3076923076923077,0.8887869956843407,2.8,7.186693600029685,"As placas tectônicas são grandes blocos que formam litosfera se
+movimentam lentamente sobre manto - Nas bordas onde as placas se encontram
+ocorrem terremotos vulcões a formação de cadeias de montanhas - A
+Cordilheira dos Andes _ por exemplo _ surgiu do choque entre placa de Nazca
+placa Sul-Americana-"
+sintetica_010.jpg,Sem pré-processamento,0.0374331550802139,0.19298245614035087,0.7973181895778116,0.0,7.180464699980803,"Um algoritmo 8 uma sequência finita de passos bem definidos para
+resolver um problema Em programação, as estruturas de decisão,
+como 0 comando if, permitem executar trechos diferentes conforme
+una condição enquanto as estruturas de repetição, cono for 8 while,
+executam mesmo bloco varías vezes. Variáveis armazenam 05
+valores que 0 programa manipula durante a execução."
+sintetica_010.jpg,Iluminação + inclinação,0.0374331550802139,0.19298245614035087,0.7973181732003998,0.0,7.727811299962923,"Um algoritmo 8 uma sequência finita de passos bem definidos para
+resolver um problema Em programação, as estruturas de decisão,
+como 0 comando if, permitem executar trechos diferentes conforme
+una condição enquanto as estruturas de repetição, cono for 8 while,
+executam mesmo bloco varías vezes. Variáveis armazenam 05
+valores que 0 programa manipula durante a execução."
+sintetica_010.jpg,Completo (+ remoção de ruído),0.02406417112299465,0.14035087719298245,0.780290501289781,0.0,6.890778700006194,"Um algoritmo é uma sequência finita de passos bem definidos para
+resolver um problema. Em programação, as estruturas de decisão,
+como 0 comando if, permitem executar trechos diferentes conforme
+una condição, enquanto as estruturas de repetição, como for @ while,
+executam 0 mesmo bloco varias vezes. Variáveis armazenam 05
+valores que 0 programa manipula durante a execução,"
+sintetica_010.jpg,Completo + binarização,0.0427807486631016,0.19298245614035087,0.608289775456254,0.0,6.310681900009513,"Um algoritmo uma sequôncia finita de passos bem definidos para
+rosolver um problema. Em programação; as ostruturas de decisão,
+como comando if, permitem executar trechos diferentes conforme
+uma condição, enquanto as estruturas de repatição; como for while
+executam 0 mesmo bloco várias vezes. Variáveis armazenam os
+valores que programa manipula durante a execução."
+sintetica_011.jpg,Sem pré-processamento,0.03910614525139665,0.15151515151515152,0.9566666885130213,0.0,9.889397999970242,"A busca em largura, conhecida pela sigla BFS explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes Ela usa uma fila encontra caminho
+com menor número de arestas Já a busca em profundidade ou
+DFS segue um caminho até fim antes de voltar, e costuma ser
+implementada com uma pilha ou com recursão"
+sintetica_011.jpg,Iluminação + inclinação,0.04748603351955307,0.18181818181818182,0.9705666668789387,-1.15,10.956217500031926,"A busca em largura conhecida pela sigla BFS explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes Ela usa uma fila encontra caminho
+com menor número de arestas Já a busca em profundidade ou
+DFS segue um caminho até fim antes de voltar, costuma ser
+implementada com uma pilha ou com recursão"
+sintetica_011.jpg,Completo (+ remoção de ruído),0.04189944134078212,0.18181818181818182,0.9570807121730008,-1.15,10.335658200026955,"A busca em largura conhecida pela sigla BFS , explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes Ela usa uma fila e encontra caminho
+com menor número de arestas Já a busca em profundidade ou
+DFS segue um caminho até fim antes de voltar, costuma ser
+implementada com uma pilha ou com recursão"
+sintetica_011.jpg,Completo + binarização,0.05865921787709497,0.25757575757575757,0.933925835635918,-1.15,9.439728000026662,"A busca em largura conhecida pela sigla BFS . explora um grafo
+visitando primeiro todos 05 vizinhos de um nó antes de avançar
+para 05 níveis seguintes _ Ela usa uma fila e encontra caminho
+com menor número de arestas _ Já a busca em profundidade ou
+DFS _ segue um caminho até 0 fim antes de voltar, e costuma ser
+implementada com uma pilha ou com recursão _"
+sintetica_012.jpg,Sem pré-processamento,0.363395225464191,0.53125,0.7529366530053513,0.0,5.2522127000265755,"fotossíntese é 0 processo pelo qual plantas , algas e algumas bactérias convertem
+química Nos cloroplastos, a clorofila absorve  luz e,a partir de gás carbônico e água, a célula produz energia luminosa em energia
+libera oxigênio. Esse processo ocorre em duas fases: fase glicose e
+também chamada de ciclo de Calvin _ clara; que depende diretamente da luz, e a fase escura_"
+sintetica_012.jpg,Iluminação + inclinação,0.002652519893899204,0.015625,0.7583336348677295,2.5,5.835036000004038,"A fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias convertem energia luminosa em energia
+química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás carbônico e água, a célula produz glicose e
+libera oxigênio. Esse processo ocorre em duas fases: a fase clara, que depende diretamente da luz, e a fase escura,
+também chamada de ciclo de Calvin."
+sintetica_012.jpg,Completo (+ remoção de ruído),0.002652519893899204,0.015625,0.8089507552120382,2.5,5.89116759999888,"A fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias convertem energia luminosa em energia
+química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás carbônico e água, a célula produz glicose e
+libera oxigênio. Esse processo ocorre em duas fases: a fase clara, que depende diretamente da luz, e a fase escura,
+também chamada de ciclo de Calvin."
+sintetica_012.jpg,Completo + binarização,0.013262599469496022,0.09375,0.7333478499336321,2.5,5.73533180000959,"A fotossíntese é 0 processo pelo qual plantas , algas e algumas bactérias convertem energia luminosa em energia
+química. Nos cloroplastos; a clorofila absorve a luz e, a partir de gás carbônico e água, a célula produz glicose e
+libera oxigênio. Esse processo ocorre em duas fases: a fase clara, que depende diretamente da Juz, e a fase escura,
+também chamada de ciclo de Calvin"
+sintetica_013.jpg,Sem pré-processamento,0.003076923076923077,0.02040816326530612,0.873517433558461,0.0,6.1772854999871925,"A mitose é a divisão celular que origina duas células-filhas
+geneticamente idênticas à célula-mãe. Ela é dividida em prófase,
+metáfase, anáfase e telófase. Já a meiose produz quatro células
+com metade do número de cromossomos e é responsável pela
+formação dos gametas, contribuindo para a variabilidade genética
+das espécies"
+sintetica_013.jpg,Iluminação + inclinação,0.003076923076923077,0.02040816326530612,0.8488970175485318,2.4,8.38455309998244,"A mitose é a divisão celular que origina duas células-filhas
+geneticamente idênticas à célula-mãe Ela é dividida em prófase,
+metáfase, anáfase e telófase. Já a meiose produz quatro células
+com metade do número de cromossomos e é responsável pela
+formação dos gametas, contribuindo para a variabilidade genética
+das espécies."
+sintetica_013.jpg,Completo (+ remoção de ruído),0.003076923076923077,0.02040816326530612,0.7590191173725486,2.4,7.474902899994049,"A mitose é a divisão celular que origina duas células-filhas
+geneticamente idênticas à célula-mãe, Ela é dividida em prófase,
+metáfase, anáfase e telófase. Já a meiose produz quatro células
+com metade do número de cromossomos e é responsável pela
+formação dos gametas, contribuindo para a variabilidade genética
+das espécies."
+sintetica_013.jpg,Completo + binarização,0.021538461538461538,0.10204081632653061,0.7813177399688487,2.4,7.455258700007107,"mltose a divisão celular que origina duas células-filhas
+geneticamente idênticas à célula-mãe. Ela é dividida em prófase,
+metáfase, anáfase e telófase. Já a melose produz quatro células
+com metade do número de cromossomos e é responsável pela
+formação dos gametas, contribuindo para a varlabilidade genética
+das espécies."
+sintetica_014.jpg,Sem pré-processamento,0.546875,0.7241379310344828,0.8763953330042172,0.0,7.491962999978568,"substi Revolução Industrial começou na Inglaterra,
+tuição do trabalho manual na segunda metade
+vapor, transformou pelas máquinas, do século XVIII. A
+mesmo tempo , produção têxtil Jucoasroespecialmente com 0 uso da máquina
+fábricas que deu surgiram jornadas de trabalho longas crescimento das cidades. Ao
+origem aos primei ros condições precárias nas
+movimentos operários"
+sintetica_014.jpg,Iluminação + inclinação,0.0546875,0.2413793103448276,0.9506622905805052,4.65,10.066350899985991,"Revolução Industrial começou na Inglaterra, na segunda metade do século XVIII. A
+substituição do trabalho manual pelas máquinas, especialmente com uso da máquina
+vapor , transformou produção têxtil acelerou crescimento das cidades Ao
+mesmo tempo , surgiram jornadas de trabalho longas condições precárias nas
+fábricas que deu origem aos primeiros movimentos operários"
+sintetica_014.jpg,Completo (+ remoção de ruído),0.0546875,0.2413793103448276,0.918047733372252,4.65,11.1388830000069,"Revolução Industrial começou na Inglaterra, na segunda metade do século XVIII. A
+substituição do trabalho manual pelas máquinas, especialmente com uso da máquina
+vapor , transformou produção têxtil acelerou crescimento das cidades Ao
+mesmo tempo , surgiram jornadas de trabalho longas condições precárias nas
+fábricas que deu origem aos primeiros movimentos operários"
+sintetica_014.jpg,Completo + binarização,0.0703125,0.3103448275862069,0.928759753914896,4.65,9.580453000031412,"Revolução Industrial começou na Inglaterra na segunda metade do século XVIII. A
+substituição do trabalho manual pelas máquinas _ especialmente com uso da máquina
+vapor transformou produção têxtil acelerou crescimento das cidades Ao
+mesmo tempo _ surgiram jornadas de trabalho longas condições precárias nas
+fábricas que deu origem a05 primeiros movimentos operários"
+sintetica_015.jpg,Sem pré-processamento,0.5971830985915493,0.8225806451612904,0.692590247667786,0.0,5.522884199977852,"de 1822 por Domn Pedro !, a5
+Independencia do Brasil fo} prociamada em 7 de setembro 0 processo toi Influenciado pela voita da famila
+Paulo
+margens do racho Ipiranga; em Sàc Cortes portuguesas para que 0 Brash retornasse
+real a Portugal € pela pressão das pafs adotou monarquia como forma de
+condição de colonia Apos Independencia
+govemno"
+sintetica_015.jpg,Iluminação + inclinação,0.1323943661971831,0.6129032258064516,0.4145699799110073,-2.8,7.7396467999788,"Independencia do Brasll fol prociamada em Jue seterbro de 1822 por Donu Peuro {, a5
+margens do riacho Ipiranga,em São Paulo 0 processo toi influenciado pela volte da famila
+reala Portugal € pela pressãO das Cortes portugue5as Dara Que 0 Brasu retornasse à
+condição de colônia Apos Independencla pals adotou a monarqula comno forma de
+governo"
+sintetica_015.jpg,Completo (+ remoção de ruído),0.1267605633802817,0.532258064516129,0.437316458365688,-2.8,7.364595799997915,"Independencia do Brasll fol prociamada em 7 de setembro de 1822 por Dom Pedro {; a5
+margens do rlacho Ipirangaem São Paulo 0 processo toi influenciado pela volte da famila
+reala Portugal € pela pressão das Cortes portuguesas para que 0 Bras } retornasse à
+condicao de colonia Apos Independencla pais adotou monaraula comno forma de
+governo"
+sintetica_015.jpg,Completo + binarização,0.7549295774647887,1.0,0.0008351654164014964,-2.8,10.418445600022096,"Hnnoonciocn Enalconemanendnoonahnonaoaneeredoodeoe
+cmnaonalanrlei suSiou oneio hntho oaoi
+Voof {Ponooerinnnesa  Jonnas aa Honoeoatin oeoao
+Cxononaoknagmnohyoinind Oatonens 64! Palmioanaof
+Cee"
+sintetica_016.jpg,Sem pré-processamento,0.02608695652173913,0.12698412698412698,0.7087692059833125,0.0,5.164201699953992,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo, 0 quadrado da
+hipotenusa é igual à soma dos quadrados dos catetos hipotenusa é 0 lado
+oposto ao ângulo reto e também 0 maior lado do triângulo. Por exemplo, se os
+catetos medem 3 e 4 centímnetros, a hipotenusa mede 5 centímetros, pois nove
+mais dezesseis é igual a vinte e cinco"
+sintetica_016.jpg,Iluminação + inclinação,0.03768115942028986,0.15873015873015872,0.8324025404396935,-0.3,7.3260481000179425,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo quadrado da
+hipotenusa é igual à soma dos quadrados dos catetos A hipotenusa é 0 lado
+oposto ao ângulo reto também 0 maior lado do triângulo. Por exemplo, se os
+catetos medemn 3 e 4 centímetros, hipotenusa mede 5 centímetros, pois nove
+mais dezesseis é igual a vinte e cinco"
+sintetica_016.jpg,Completo (+ remoção de ruído),0.017391304347826087,0.1111111111111111,0.8838798860341298,-0.3,5.993714499985799,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo, 0 quadrado da
+hipotenusa é igual à soma dos quadrados dos catetos A hipotenusa é 0 lado
+oposto ao ângulo reto e também 0 maior lado do triângulo . Por exemplo, se os
+catetos medem 3 e 4 centímetros, a hipotenusa mede 5 centímetros, pois nove
+mais dezesseis é igual a vinte e cinco."
+sintetica_016.jpg,Completo + binarização,0.03768115942028986,0.14285714285714285,0.7536947189260457,-0.3,7.400302599999122,"teorema de Pitágoras afirma que; em todo triângulo retângulo, quadrado da
+hipotenusa é igual à soma dos quadrados dos catetos. hipotenusa é 0 lado
+oposto a0 ângulo reto e também maior lado do triângulo. Por exemplo; se os
+catetos medem 3 e 4 centímetros, a hipotenusa mnede 5 centímetros, pois nove
+mais dezesseis é igual a vinte e cinco."
+sintetica_017.jpg,Sem pré-processamento,0.5370919881305638,0.7605633802816901,0.8549336734046641,0.0,7.191237699997146,"a e b são números reais eaé
+=ax + b. em que
+Uma função do primeiro grau tem a forma f(x) 0 coeficiente a indica a inclinação da reta:
+diferente de zero. Seu gráfico é sempre uma reta é negativo. função é decrescente. 0
+positivo, função é crescente, € quando
+quando ele é reta corta 0 eixo y
+coeficiente b indica 0 ponto em que a"
+sintetica_017.jpg,Iluminação + inclinação,0.02967359050445104,0.15492957746478872,0.7193893096021936,-4.8,8.51072290004231,"Uma função do primeiro grau tem a forma f(x) = ax + b em que a e b são números reais eaé
+diferente de zero. Seu gráfico é sempre uma reta. 0 coeficiente a indica a inclinação da reta:
+quando ele é positivo; a função é crescente, € quando é negativo. a função é decrescente. 0
+coeficiente b indica 0 ponto em que a reta corta 0 eixo y."
+sintetica_017.jpg,Completo (+ remoção de ruído),0.03857566765578635,0.15492957746478872,0.717294742184691,-4.8,7.123819400032517,"Uma função do primeiro grau tem a forma f(x) = ax + b em que a e b são números reais € a é
+diferente de zero. Seu gráfico é sempre uma reta. 0 coeficiente a indica a inclinação da reta:
+quando ele é positivo, função é crescente; € quando é negativo. função é decrescente. 0
+coeficiente b indica 0 ponto em que a reta corta 0 eixo y."
+sintetica_017.jpg,Completo + binarização,0.04154302670623145,0.15492957746478872,0.811835885055452,-4.8,8.116740600031335,"Uma função do primeiro grau tem a forma f(x) = ax + b. em que a e b são núneros reais e a é
+diferente de zero. Seu gráfico é sempre uma reta. coeficiente a indica a inclinação da reta:
+quando ele é positivo; a função é crescente. quando é negativo. a função é decrescente. 0
+coeficiente b indica 0 ponto em que a reta corta eixo y"
+sintetica_018.jpg,Sem pré-processamento,0.3772455089820359,0.4117647058823529,0.8692939225983598,0.0,4.424057699972764,"A tabela periódica organiza os elementos químicos em ordem crescente de número atômico , colunas são chamadas de famílias
+que corresponde à quantidade de prótons no núcleo. As propriedades químicas semelhantes. As linhas
+ou grupos e reúnem elementos com eletrônicas dos átomos.
+horizontais são os períodos e indicam 0 número de camadas"
+sintetica_018.jpg,Iluminação + inclinação,0.005988023952095809,0.0196078431372549,0.8737940116421488,-2.5,7.396057699981611,"A tabela periódica organiza os elementos químicos em ordem crescente de número atômico,
+que corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias
+ou grupos e reúnem elementos com propriedades químicas semelhantes. As linhas
+horizontais são os períodos e indicam número de camadas eletrônicas dos átomos."
+sintetica_018.jpg,Completo (+ remoção de ruído),0.005988023952095809,0.0196078431372549,0.865584648030169,-2.5,8.36635170003865,"A tabela periódica organiza os elementos químicos em ordem crescente de número atômico,
+que corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias
+ou grupos e reúnem elementos com propriedades químicas semelhantes. As linhas
+horizontais são os períodos e indicam número de camadas eletrônicas dos átomos."
+sintetica_018.jpg,Completo + binarização,0.029940119760479042,0.17647058823529413,0.6430520459562743,-2.5,6.953780599986203,"tabela periódica organlza os elementos químlcos em ordem crescente de número atômico,
+que corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias
+ou grupos e reúnem elementos com proprledades químlcas semelhantes. As Iinhas
+horlzontais são os períodos e indicam 0 número de camadas eletrônicas dos átomos"
+sintetica_019.jpg,Sem pré-processamento,0.029154518950437316,0.12121212121212122,0.720639321340935,0.0,7.375417999981437,"Uma reação de neutralização acontece quando um ácido reage com uma base,
+formando sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico € 0
+hidróxido de sódio; que produz cloreto de sódio, 0 sal de cozinha. 0 pH mede a
+acidez de uma solução: valores abaixo de 7 indicam meio acido acima de 7 mco
+básico e igual a 7 meio neutro."
+sintetica_019.jpg,Iluminação + inclinação,0.02040816326530612,0.10606060606060606,0.7503644085843147,0.15,5.912391000019852,"Uma reação de neutralização acontece quando um ácido reage com uma base
+formando sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico e 0
+hidróxido de sódio, que produz cloreto de sódio, 0 sal de cozinha. 0 pH mede a
+acidez de uma solução: valores abaixo de 7 indicam meio ácido acima de 7 meo
+básico e igual a 7 meio neutro."
+sintetica_019.jpg,Completo (+ remoção de ruído),0.02040816326530612,0.10606060606060606,0.724795921818033,0.15,6.301178299996536,"Uma reação de neutralização acontece quando um ácido reage com uma base,
+formando sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico e 0
+hidróxido de sódio; que produz cloreto de sódio; 0 sal de cozinha. 0 pH mede à
+acidez de uma solução: valores abaixo de 7 indicam meio ácido, acima de 7 meio
+básico e igual a 7 meio neutro."
+sintetica_019.jpg,Completo + binarização,0.03498542274052478,0.15151515151515152,0.6963070697766912,0.15,6.336703700013459,"Uma reação de neutralização acontece quando um ácido rcage com uma base,
+formando sal e água. UIm exemplo clássico é a reação entre 0 ácido clorídrico € 0
+hidróxido de sódio; que produz cloreto de sódio; sal de cozinha. 0 pH mede a
+acidez de uma solução: valores abaixo de 7 indicam meio ácido, acima de 7 meio
+básico igual a 7 meio neutro."
+sintetica_020.jpg,Sem pré-processamento,0.5206349206349207,0.7115384615384616,0.9547356194566085,0.0,7.5104201000067405,"0 clima
+chuvas escassas e semiárido predomina em grande parte do Nordeste
+dessa região é Caatinga, irregulares , concentradas em poucos meses do ano. A brasileiro e se caracteriza por
+árvores que perdem as folhas formada por plantas adaptadas à falta vegetação típica
+durante a estação seca. de água, como cactos"
+sintetica_020.jpg,Iluminação + inclinação,0.012698412698412698,0.057692307692307696,0.7542983359717264,4.85,9.18377750000218,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se caracteriza por
+chuvas escassas e irregulares, concentradas em poucos meses do ano A vegetação típica
+dessa região é a Caatinga, formada por plantas adaptadas à falta de água, como cactos
+árvores que perdem as folhas durante a estação seca."
+sintetica_020.jpg,Completo (+ remoção de ruído),0.009523809523809525,0.038461538461538464,0.8385181799734763,4.85,9.157273099990562,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se caracteriza por
+chuvas escassas e irregulares, concentradas em poucos meses do ano. A vegetação típica
+dessa região é a Caatinga, formada por plantas adaptadas à falta de água, como cactos
+árvores que perdem as folhas durante a estação seca."
+sintetica_020.jpg,Completo + binarização,0.015873015873015872,0.07692307692307693,0.7465787502633893,4.85,7.054835499962792,"clima semiárido predomina em grande parte do Nordeste brasileiro e se caracteriza por
+chuvas escassas e irregulares , concentradas em poucos meses do ano. A vegetação típica
+dessa região é a Caatinga, formada por plantas adaptadas à falta de água, como cactos
+árvores que perdem as folhas durante a estação seca."
+sintetica_021.jpg,Sem pré-processamento,0.38782051282051283,0.4230769230769231,0.9069713152295977,0.0,8.484225400025025,"grandes blocos que formam a litosfera e se
+As placas tectônicas são Nas bordas onde as placas se
+movimentam lentamente sobre 0 manto. vulcões e a formação de cadeias  de
+encontram ocorrem terremotos; Cordilheira dos Andes; pOr exemplo, surgiu do choque entre a
+montanhas. A
+de Nazca e a placa Sul-Americana.
+placa"
+sintetica_021.jpg,Iluminação + inclinação,0.00641025641025641,0.038461538461538464,0.8119517795592363,-4.35,10.742155899992213,"As placas tectônicas são grandes blocos que formam a litosfera e se
+movimentam lentamente sobre 0 manto. Nas bordas onde as placas se
+encontram ocorrem terremotos, vulcões e a formação de cadeias de
+montanhas. A Cordilheira dos Andes, por exemplo; surgiu do choque entre a
+placa de Nazca e a placa Sul-Americana."
+sintetica_021.jpg,Completo (+ remoção de ruído),0.009615384615384616,0.057692307692307696,0.7745567306782767,-4.35,8.787816800002474,"As placas tectônicas são grandes blocos que formam a litosfera e se
+movimentam lentamente sobre 0 manto. Nas bordas onde as placas se
+encontram ocorrem terremotos; vulcões e a formação de cadeias de
+montanhas. A Cordilheira dos Andes; por exemplo, surgiu do choque entre a
+placa de Nazca e a placa Sul-Americana."
+sintetica_021.jpg,Completo + binarização,0.01282051282051282,0.057692307692307696,0.8489837190252678,-4.35,7.695544900023378,"As placas tectônicas são grandes blocos que formam a litosfera e se
+movimentam lentamente sobre manto. Nas bordas onde as placas se
+encontram ocorrem terremotos, vulcões e a formação de cadeias de
+montanhas. A Cordilheira dos Andes; por exemplo; surgiu do choque entre a
+placa de Nazca e a placa Sul-Americana."
+sintetica_022.jpg,Sem pré-processamento,0.03208556149732621,0.22807017543859648,0.6056380455124946,0.0,5.013432500010822,"Um algoritmno & uma sequência finita de passos bem definidos para resolver um problema
+Em programação, as estruturas de decisão, como 0 comando if , permitem executar trechos
+diferentes conforme uma condição, enquanto as estruturas de repetição, como for # while,
+executam 0 mnesmo bloco varias vezes. Variáveis armazenam 0s valores que 0 programa
+manipula durante a execução"
+sintetica_022.jpg,Iluminação + inclinação,0.07219251336898395,0.40350877192982454,0.5034431979459864,0.7,6.903334699978586,"Um algorittno < uma sequencia finita de passos ben detinidos para resolver um problema
+Em programação, as estruturas de decisão, como 0 comando if, permitem exccutar trechos
+diferentes conforme uma condiçao, enquanto as estruturas de repeticao, como for € while;
+executan 0 Inesmno bloco varias vezes Variaveisarmazenam 0s Valores que 0 programa
+manipula durante a execução"
+sintetica_022.jpg,Completo (+ remoção de ruído),0.05080213903743316,0.2982456140350877,0.5724832760998342,0.7,6.5769244999974035,"Um algoritmno uma sequencia linita de passos bem detinidos para resolver um problema.
+Em programação, as estruturas de decisão, como 0 comando {f, permitem executar trechos
+diferentes conforme uma condicão, enquanto as estruturas de repetição, como for € while,
+execulam 0 mnesmno bloco varias vezes. Variaveis armazenam os Valores que 0 programa
+manipula durante a execução,"
+sintetica_022.jpg,Completo + binarização,0.0855614973262032,0.42105263157894735,0.5537190974190026,0.7,6.459891799953766,"Um algorltmo é uma sequêncla nnila de passos bem deflnkdos para resolver um problema.
+Em programação. as estruturas de declsão; como 0 comando I, permltem executar trechos
+dlferentes conlorme uma condlção, enquanto as estruturas de repetiçâo, como {or whlle,
+execulam 0 mesmo bloco várlas vezes. Varlávels armazenam os valores que 0 programa
+mantpula durante execuçâo."
+sintetica_023.jpg,Sem pré-processamento,0.06983240223463687,0.3787878787878788,0.9046269890920561,0.0,7.785499399993569,"A busca en largura conhecida pela sigla BFS , explora um grafo
+visitando primeiro todos 05 vizinhos de um no antes de avançar
+para Os níveis seguintes Ela usa uma f1la encontra 0 caminho
+Com 0 menor número de arestas Ja 3 busca em profundidade ou
+DFS , segue um caminho até 0 f1m antes de voltar , costuma ser
+implementada com uma pilha Ou com recursão"
+sintetica_023.jpg,Iluminação + inclinação,0.061452513966480445,0.3333333333333333,0.8895376871356834,0.2,8.202836800017394,"busca en largura, conhecida pela sigla BFS , explora um grafo
+visitando primeiro todos 0s vizinhos de uM no antes de avançar
+para os níveis seguintes Ela usa uma fila e encontra 0 caminho
+Com 0 menor número de arestas Ja 3 busca em profundidade, u
+DFS segue um caminho até 0 f1m antes de voltar , costuma ser
+implementada com uma pilha Ou com recursão"
+sintetica_023.jpg,Completo (+ remoção de ruído),0.05027932960893855,0.2878787878787879,0.9109444470304313,0.2,9.695239000022411,"busca en largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos 0s vizinhos de um no antes de avançar
+para os níveis seguintes Ela usa uma fila e encontra 0 caminho
+Com 0 menor número de arestas Ja 3 busca em profundidade, ou
+DFS , segue um caminho até 0 f1m antes de voltar , e costuma ser
+implementada com uma pilha Ou com recursão"
+sintetica_023.jpg,Completo + binarização,0.10893854748603352,0.5151515151515151,0.7855828591766281,0.2,9.217645000026096,"busca em largura, conhecida pela sigla BFS , explora Um grafo
+visitando primeiro todos 05 vizinhos de uM nó antes de avançar
+para 0s níveis seguintes _ Ela usa Umna fila e encontre 0 caminho
+Comi 0 menor número de arestas _ Ja 4 busca 6 profundidade Ou
+DFS , seque Um Caminho até 0 fim antes de voltar, costuma ser
+implenentada Com Uma pilha Ou COm recursão_"
+sintetica_024.jpg,Sem pré-processamento,0.3687002652519894,0.734375,0.6418000581887143,0.0,7.206892800051719,"fotossíntese € 0 processo pclo qual plantas . algas € algumas bactérias convertem cnergia
+quimica  Nos cloroplastos . clorofila absorve a luz & partir de gas
+lumninosa cn encrgia Esse proccsso ocorre €m} duas
+carbônico € água, 2 célula produz glicosc € Jibera oxigênio dccick
+fascs a fase clara. que depende dirctamente da luz: € a {ase escura. lambém chamada
+de Calvin"
+sintetica_024.jpg,Iluminação + inclinação,0.08753315649867374,0.40625,0.5244354317111697,-2.35,8.474524799967185,"A fotossíntese € 0 processo pelo qual plantas. algas € algumas bactérias convertem cnergin
+luminosa en energia qunmnica  Nos cloroplastos a clorofila absorve a luz €, 1 partir de gas
+carbônico € água, 2 célula produz glicose libera oxigénio Esse processo ocorre em} duas
+fascs a fase clara. que depende dirctamente da luz. € a lase escura, lambémn chamada Je cicl
+de Calvin"
+sintetica_024.jpg,Completo (+ remoção de ruído),0.06631299734748011,0.328125,0.5071409088786846,-2.35,7.732482000021264,"fotossíntese € 0 processo pelo qual plantas, algas € agumas bactérias convertem cnergin
+luminosa en energia quimica Nos cloroplastos. a clorofila absorve a luz €, 1 partir de gás
+carbônico € água, a célula produz glicose e libera oxigénio Esse proccsso ocorre em duas
+fases; a fase clara. que depende diretamente da luz. € 2 fase escura, lambém chamada de cicl
+de Calvin."
+sintetica_024.jpg,Completo + binarização,0.11671087533156499,0.484375,0.414302694571727,-2.35,8.141614299966022,"folossíntese 0 processo pclo - qual plantas, algas algumas bactérias convcrtem enereía
+luminosu em energia quânica. Nos cloroplastos, 0 clorofila absorve a luz e, ª partir  de 8Âs
+carlinico € é8ua, 9 célula produz elicose libera oxigênia Essç processo ocorre em duas
+fases: a [ase clara; que depende diretamnente da luz, € a fase escura; tanibér chamada decicl
+de Calvín."
+sintetica_025.jpg,Sem pré-processamento,0.024615384615384615,0.16326530612244897,0.7357384228683799,0.0,6.085893799958285,"A mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à
+célula-mãe Ela é dividida em prófase metáfase , anáfase e telofase. Já a meiose produz quatro
+células com metade do número de cromossomos e e responsável pela formaçao dos gametas,
+contribuindo para variabilidade genética das espécies."
+sintetica_025.jpg,Iluminação + inclinação,0.015384615384615385,0.14285714285714285,0.668234300268376,-0.95,5.421845500008203,"A mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à
+célula-mãe . Ela é dividida em prófase, metáfase , anáfase e telófase. Já a meiose produz quatro
+células com metade do número de cromossomos e é responsável pela formaçao dos gametas
+contribuindo para a variabilidade genética das espécies"
+sintetica_025.jpg,Completo (+ remoção de ruído),0.003076923076923077,0.02040816326530612,0.7601966222911286,-0.95,7.275310500001069,"A mitose é a divisão celular que orígina duas células-filhas geneticamente idênticas à
+célula-mãe. Ela é dividida em prófase, metáfase, anáfase e telófase. Já a meiose produz quatro
+células com metade do número de cromossomos e é responsável pela formação dos gametas,
+contribuindo para a variabilidade genética das espécies."
+sintetica_025.jpg,Completo + binarização,0.027692307692307693,0.16326530612244897,0.6093092224759948,-0.95,5.885451300011482,"A mitose é a dívisão celular que orlgina duas células-flhas geneticamente idênticas à
+célula-mãe. Ela é dividlda em prófase; metáfase, anáfase e telófase. Já a meiose produz quatro
+células com metade do número de cromossomos e é responsável pela formação dos gametas;
+contribuindo para 0 variabilidade genátíca das espécies."
+sintetica_026.jpg,Sem pré-processamento,0.4791666666666667,0.6379310344827587,0.8877996856152784,0.0,8.458679399976972,"Revolução Industrial
+século XVIII. A substituição do trabalho começou na Inglaterra, na segunda metade do
+têxtil especialmente com 0 uso da e acelerou máquina a vapor, manual pelas máquinas,
+0 transformou a
+surgiram crescimento das cidades . Ao mesmo produção
+fábricas, 0 que jornadas de trabalho deu longas e condições precárias nas tempo,
+origem aos primeiros
+movimentos operários."
+sintetica_026.jpg,Iluminação + inclinação,0.010416666666666666,0.06896551724137931,0.7653929348350228,5.05,9.953673299984075,"4 Revolução Industrial começou na Inglaterra, na segunda metade do
+século XVIII. A substituição do trabalho manual pelas máquinas,
+especialmente com 0 uso da máquina a vapor, transformou a produção
+têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo,
+surgiram jornadas de trabalho longas e condições precárias nas
+fábricas, 0 que deu origem aos primeiros movimentos operários."
+sintetica_026.jpg,Completo (+ remoção de ruído),0.0078125,0.05172413793103448,0.8568178786418355,5.05,9.326890400028788,"A Revolução Industrial começou na Inglaterra, na segunda metade do
+século XVIII. A substituição do trabalho manual pelas máquinas,
+especialmente com 0 uso da máquina a vapor, transformou a produção
+têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo,
+surgiram jornadas de trabalho longas e condições precárias nas
+fábricas, 0 que deu origem aos primeiros movimentos operários."
+sintetica_026.jpg,Completo + binarização,0.015625,0.10344827586206896,0.8237349968251257,5.05,9.619399399962276,"Revolução Industrial começou na Inglaterra, na segunda metade do
+século XVIII. A substituição do trabalho manual pelas máquinas,
+especialmente com 0 uso da máquina a vapor, transformou a produção
+têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo,
+surgiram jornadas de trabalho longas e condições precárias nas
+fábricas, 0 que deu origem aos primeiros movimentos operários ."
+sintetica_027.jpg,Sem pré-processamento,0.008450704225352112,0.04838709677419355,0.8179173999289288,0.0,6.138796599989291,"A Independência do Brasil foi proclamada em 7 de setembro de
+1822, por Dom Pedro I, às margens do riacho Ipiranga, em São
+Paulo. 0 processo foi influenciado pela volta da família real a
+Portugal e pela pressão das Cortes portuguesas para que 0 Brasil
+retornasse à condição de colônia. Após a independência, 0 país
+adotou a monarquia como forma de governo."
+sintetica_027.jpg,Iluminação + inclinação,0.011267605633802818,0.06451612903225806,0.7818312414673178,-1.15,6.416307299979962,"A Independência do Brasil foi proclamada em 7 de setembro de
+1822, por Dom Pedro I, às margens do riacho Ipiranga, em São
+Paulo. 0 processo foi influenciado pela volta da família real a
+Portugal e pela pressão das Cortes portuguesas para que 0 Brasil
+retornasse à condição de colônia. Após a independência, 0 país
+adotou a monarquia como forma de governo"
+sintetica_027.jpg,Completo (+ remoção de ruído),0.008450704225352112,0.04838709677419355,0.9000358648877187,-1.15,7.050899800029583,"A Independência do Brasil foi proclamada em 7 de setembro de
+1822, por Dom Pedro I, às margens do riacho Ipiranga, em São
+Paulo. 0 processo foi influenciado pela volta da família real a
+Portugal e pela pressão das Cortes portuguesas para que 0 Brasil
+retornasse à condição de colônia. Após a independência, 0 país
+adotou a monarquia como forma de governo."
+sintetica_027.jpg,Completo + binarização,0.02535211267605634,0.0967741935483871,0.8416765103448394,-1.15,7.18582889996469,"Independência do Brasil foi proclamada em 7 de setembro de
+1822, por Dom Pedro I, às margens do riacho Ipiranga; em São
+Paulo. processo foi influenciado pela volta da família real a
+Portugal pela pressão das Cortes portuguesas para que 0 Brasil
+retornasse à condição de colônia. Após a independência, 0 país
+adotou a monarquia como forma de governo."
+sintetica_028.jpg,Sem pré-processamento,0.391304347826087,0.5079365079365079,0.8045044145952054,0.0,4.89483319997089,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo, 0
+soma dos quadrados dos catetos quadrado da hipotenusa igual à
+triângulo. Por exemplo, se os catetos hipotenusa é 0 lado oposto ao ângulo reto também 0 maior lado do
+nove mais dezesseis é igual a vinte medem 3 e 4 centímetros, a hipotenusa mede 5 centímetros, pois
+cinco."
+sintetica_028.jpg,Iluminação + inclinação,0.034782608695652174,0.15873015873015872,0.8017271333906265,2.8,6.003416999999899,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo. 0 quadrado da hipotenusa é igual à
+soma dos quadrados dos catetos hipotenusa é 0 lado oposto ao ângulo reto e também 0 maior lado do
+triângulo. Por exemplo; se os catetos medem 3 e 4 centímetros, hipotenusa mede 5 centímetros, pois
+nove mais dezesseis é igual a vinte e cinco"
+sintetica_028.jpg,Completo (+ remoção de ruído),0.02318840579710145,0.12698412698412698,0.6643854872819744,2.8,5.348964200005867,"0 teorema de Pitágoras afirma que, em todo triângulo retângulo; 0 quadrado da hipotenusa é igual à
+soma dos quadrados dos catetos A hipotenusa é 0 lado oposto ao ângulo reto e também 0 maior lado do
+triângulo. Por exemplo; se os catetos medem 3 e 4 centímetros;, a hipotenusa mede 5 centímetros, pois
+nove mais dezesseis é igual a vinte e cinco."
+sintetica_028.jpg,Completo + binarização,0.03188405797101449,0.12698412698412698,0.754654785495948,2.8,6.069923500006553,"teorema de Pitágoras afirma que, em todo triângulo retângulo, quadrado da hipotenusa é igual à
+soma dos quadrados dos catetos hipotenusa é 0 lado oposto ao ângulo reto e também 0 maior lado do
+triângulo. Por exemplo; se os catetos medem 3 e 4 centímetros; a hipotenusa mede 5 centímetros, pois
+nove mais dezesseis é igual a vinte e cinco."
+sintetica_029.jpg,Sem pré-processamento,0.03560830860534125,0.14084507042253522,0.7320426999151934,0.0,5.299667800019961,"Uma função do primeiro grau tem a forma f(x) ax + b, em que a e b são números reais e a
+é diferente de zero. Seu gráfico é sempre uma reta. 0 coeficiente a indica inclinação da
+reta: quando ele é positivo, a função é crescente; e quando é negativo; a função é
+decrescente 0 coeficiente b Indica 0 ponto em que a reta corta 0 eixo y."
+sintetica_029.jpg,Iluminação + inclinação,0.017804154302670624,0.08450704225352113,0.7618467222934251,-0.45,4.729284600005485,"Uma função do primeiro grau tem a forma f(x) = ax + b, em que a e b são números reais e a
+é diferente de zero. Seu gráfico é sempre uma reta. 0 coeficiente a indica a Inclinação da
+reta: quando ele é positivo, a função é crescente, e quando é negativo, a função é
+decrescente. 0 coeficiente b indica 0 ponto em que a reta corta 0 elxo y."
+sintetica_029.jpg,Completo (+ remoção de ruído),0.02373887240356083,0.11267605633802817,0.7238317748007762,-0.45,5.212703599943779,"Uma função do primeiro grau tem a forma f(x) = ax + b, em que a e b são números reais e a
+é diferente de zero. Seu gráfico é sempre uma reta. 0 coeficiente a Indica a Inclinação da
+reta: quando ele é positivo, a função é crescente, e quando é negativo, a função é
+decrescente. 0 coeficiente b Indica 0 ponto em que a reta corta 0 elxo y."
+sintetica_029.jpg,Completo + binarização,0.08902077151335312,0.2676056338028169,0.7654403876080097,-0.45,5.248408299987204,"Uma função do prImelro grau tem a forma f(x) = ax b, em que a e b são números reals e a
+é dlferente de zero. Seu gráflco é sempre uma reta. coeflclente a Indlca a Incllnação da
+reta: quando ele é posltlvo; a função é crescente; e quando é negatlvo, a função é
+decrescente. coeflclente b Indlca 0 ponto em que a reta corta 0 elxo y"
+sintetica_030.jpg,Sem pré-processamento,0.5389221556886228,0.6274509803921569,0.8842807693349527,0.0,6.730336900043767,"organiza os elementos químicos em ordem crescente no núcleo.
+A tabela periódica à quantidade de prótons
+de número atômico, que corresponde e reúnem elementos com
+As colunas são chamadas de famílias ou grupos semelhantes. As linhas horizontais são os
+propriedades químicas eletrônicas dos átomos.
+períodos e indicam 0 número de camadas"
+sintetica_030.jpg,Iluminação + inclinação,0.0029940119760479044,0.0196078431372549,0.8528421494126059,-4.0,7.186756899987813,"A tabela periódica organiza os elementos químicos em ordem crescente
+de número atômico, que corresponde à quantidade de prótons no núcleo.
+As colunas são chamadas de famílias ou grupos e reúnem elementos com
+propriedades químicas semelhantes. As linhas horizontais são os
+períodos e indicam 0 número de camadas eletrônicas dos átomos."
+sintetica_030.jpg,Completo (+ remoção de ruído),0.0029940119760479044,0.0196078431372549,0.807564428039782,-4.0,8.003824000013992,"A tabela periódica organiza os elementos químicos em ordem crescente
+de número atômico, que corresponde à quantidade de prótons no núcleo.
+As colunas são chamadas de famílias ou grupos e reúnem elementos com
+propriedades químicas semelhantes. As linhas horizontais são os
+períodos e indicam 0 número de camadas eletrônicas dos átomos."
+sintetica_030.jpg,Completo + binarização,0.02694610778443114,0.1568627450980392,0.7413136323845307,-4.0,7.509970499959309,"tabela periódica organiza os elementos químicos em ordem crescente
+de número atômico; que corresponde à quantidade de prótons no núcleo.
+As colunas são chamadas de famíias ou grupos 0 reúnem elementos com
+propriedades químicas semelhantes. As linhas horizontais são os
+períodos indicam 0 número de camadas eletrônicas dos átomos ."
+sintetica_031.jpg,Sem pré-processamento,0.60932944606414,0.8333333333333334,0.7711967630343234,0.0,5.581798600032926,"com uma base; formando sal água. Um excmplo
+quando umn ácido reage produz cloreto de sódio, 0 sal de cozinha
+Uma rcação de neutralização acontece Go hidróxido de sódio, que basico € igual a 7
+clássico é a rcação entre ácido clorídrico abaixo de 7 indicam mcio ácido, acima de 7 mcio
+0 pH mede a acidez de uma solução: valores
+mcio ncutro"
+sintetica_031.jpg,Iluminação + inclinação,0.052478134110787174,0.24242424242424243,0.4672545377088855,-4.65,5.937541000021156,"Uma reação de ncutralização acontece quando um ácido reage com uma basc. formando sal € água, Um exemplo
+clássico € a reação entre 0 ácido cloridrico € 0 hidróxido de sódio, que produz cloreto de sódio, 0 sal de cozinha.
+0 pH mede a acidez de uma solução: valores abaixo de 7 indicam mcio ácido, acima de 7 mcio básico € igual a 7
+mcio ncutro"
+sintetica_031.jpg,Completo (+ remoção de ruído),0.0728862973760933,0.3484848484848485,0.4273120151530147,-4.65,6.043681200011633,"Uma rcação de ncutralização acontece quando um ácido rcage com uma base, formando sal € água. Um cxcmplo
+clássico € a rcação entre 0 ácido clorídrico € 0 hidróxido de sódio, que produz cloreto de sódio, 0 sal de cozinha 
+0pH mcde a acidez de uma solução: valores abaixo de 7 indicam mcio ácido, acimna de 7 mcio basico € 'gual a 7
+mncio ncutro."
+sintetica_031.jpg,Completo + binarização,0.16326530612244897,0.6363636363636364,0.41532762507546395,-4.65,6.402984699991066,"Uma rcação dc ncutralização aconicce quando um ácido rcage com umna basc, formando sal c égua. Um cxcmplo
+clássico € 0 rcaçdo cntrc 0 écido clondnco € 0 hidróxido dc sodio, quc produz clorcto dc sodio; 0 sal dc cozinha.
+pH mcdc acidez dc uma soluçdo: valorcs abaixo dc 7 indicam mcio ácido; acimna dc 7 mcio básico c igual a 7
+mcio nculfo"
+sintetica_032.jpg,Sem pré-processamento,0.11746031746031746,0.46153846153846156,0.40796151493460353,0.0,4.156344299961347,"0 clma senatido predonna cm grande parte do Nordeste brasileiro € se caractcniza
+por chuvas escassas € itregulares  concentradas em poucos meses do ano ycgelação
+upica dessa repião € a Caatinga, lormada por plantas adaptadas à falta de âgua, cono
+cados € arvorcs que perdem as folhas durante 0 cstação Seca"
+sintetica_032.jpg,Iluminação + inclinação,0.09841269841269841,0.40384615384615385,0.4546580427010575,0.15,5.258372699958272,"Ochma scmarido predomina em grande parte do Nordeste brasileiro € se caracteriza
+por chuvas cscussas € irregulares  concentradas em poucos meses do ano Yegetação
+tpica dessa região € a Caatinga, formada por plantas adaptadas falta de agua, como
+cactos € arvorcs quc pxrdem as folhas durante cslaçao seca"
+sintetica_032.jpg,Completo (+ remoção de ruído),0.07301587301587302,0.34615384615384615,0.5476741918097975,0.15,5.54076800000621,"Oclima scnarido predomina cm grande parte do Nordeste brasileiro € se caracteriza
+por chuvas cscassas € irregulares. concentradas em poucos meses do ano, vegetaçho
+tpica dessa região é a Caatinga, formada por plantas adaptadas falta de água, como
+cactos € arvorcs que pxrdem as folhas durante a cstação seca"
+sintetica_032.jpg,Completo + binarização,0.18095238095238095,0.7115384615384616,0.40882527463137297,0.15,5.068092799978331,"clima scnvárido prcdomina em grande parte do Nordeste brasilciro € sc caracicrz
+pxr chuvas cscassas € incgularcs. conccntradas em poucos meses do an0, vegclaçdo
+upica dssa rcgido € 2 Caafinga, [ormada Por planlas adaptadas falla dc agua. como
+cacios € arvorcs quc pcrdem as folhas durantc * cstação scca"
+sintetica_033.jpg,Sem pré-processamento,0.5032051282051282,0.5961538461538461,0.8395359384735913,0.0,6.480332700011786,"As placas tectônicas são grandes blocos
+movimentam Jentamente sobre 0 manto. que formam a litosfera € se
+encontram ocorrem Nas bordas onde as placas se
+montanhas. A Cordilheira terremotos; vulcões e a dos formação de cadeias de
+placa de Nazca € a placa Sul-Americana. Andess por exemplo, surgiu do choque entre a"
+sintetica_033.jpg,Iluminação + inclinação,0.04807692307692308,0.21153846153846154,0.6921289634529647,4.4,7.137696599995252,"As placas lectônicas são grandes blocos que formam a litosfera € se
+movimentam lentamente sobre 0 manto. Nas bordas onde as placas SC
+encontram ocorrCMI terremotos. vulcocs € a formação de cadeias de
+montanhas. A Cordilheira dos Andes. por exemplo. surgiu do choque entre a
+placa de Nazca € a placa Sul-Americana."
+sintetica_033.jpg,Completo (+ remoção de ruído),0.04487179487179487,0.23076923076923078,0.5233056490767569,4.45,7.448519599973224,"As placas Ieclônicas são grandes blocos que formam a litosfera € se
+movimentam lentamente sobre 0 manto. Nas bordas onde as placas se
+encontram ocorem lerremotos, vulcocs € a lormação de cadeias de
+montanhas. A Cordilheira dos Andes; por exemplo, surgiu do choque entre a
+placa de Nazca € 0 placa Sul-Amcricana."
+sintetica_033.jpg,Completo + binarização,0.16025641025641027,0.6538461538461539,0.4951945373322258,4.45,7.122982900007628,"As placas lcctônicas são grandcs blocos quc formam lilosfcra c sc
+movimcnlam lcnlamcntc sobrc 0 manto: Nas bordas ondc as placas sc
+cncontram ocorrcm lcrrcmoos, vulcõcs c formaçwo dc cadcias dc
+monuanhas. Cordilhcira dos Andcs. por cxcmplo. surgiu do choque cntrc a
+placa dc Nazca € * placa Sul-Amcricana."
+sintetica_034.jpg,Sem pré-processamento,0.4385026737967914,0.6491228070175439,0.9274770623844063,0.0,8.127990199951455,"Um algoritmo e uma
+resolver um problema. Em sequência finita de passos bem
+como 0 comando programação, as estruturas definidos para
+uma if, permitem executar trechos de decisão,
+executam 0 mesmo condição, enquanto as estruturas de repetição, diferentes conforme
+valores que 0 bloco várias vezes . Variáveis como for e while,
+programa manipula durante a armazenam OS
+execução."
+sintetica_034.jpg,Iluminação + inclinação,0.01871657754010695,0.10526315789473684,0.902493618136,5.55,8.63042790000327,"Um algoritmo é uma sequência finita de passos bem definidos para
+resolver um problema. Em programação, as estruturas de decisão,
+como 0 comando if, permitem executar trechos diferentes conforme
+uma condição, enquanto as estruturas de repetição, como for e while ,
+executam mesmo bloco várias vezes. Variáveis armazenam OS
+valores que 0 programa manipula durante a execução."
+sintetica_034.jpg,Completo (+ remoção de ruído),0.013368983957219251,0.07017543859649122,0.8209145347357809,5.55,8.768837400013581,"Um algoritmo é uma sequência finita de passos bem definidos para
+resolver um problema. Em programação, as estruturas de decisão,
+como 0 comando if, permitem executar trechos diferentes conforme
+uma condição, enquanto as estruturas de repetição, como for e while,
+executam 0 mesmo bloco várias vezes. Variáveis armazenam OS
+valores que 0 programa manipula durante a execução."
+sintetica_034.jpg,Completo + binarização,0.01871657754010695,0.07017543859649122,0.7938555009029677,5.55,9.099565100041218,"Um algoritmo é uma sequência finita de passos bem definidos para
+resolver um problema. Em programação, as estruturas de docisão,
+como comando if, permitem executar trechos diferentes conforme
+uma condição, enquanto as estruturas de repetição, como for e while,
+executam mesmo bloco várias vezes. Variáveis armazenam os
+valores que programa manipula durante a execução."
+sintetica_035.jpg,Sem pré-processamento,0.33798882681564246,0.42424242424242425,0.785476906845503,0.0,5.537714699981734,"conhecida pela sigla BFS, explora um grafo visitando primeiro lodos os vizinhos de
+A busca em largura, encontra 0 caminho com 0 menor
+um nó antes de avançar para os níveis seguintes. Ela usa uma fila €
+de arestas. Já a busca em profundidade, ou DFS, segue um caminho até 0 fim antes de voltar, €
+numero
+costuma sCr implementada com uma pilha ou com recursão"
+sintetica_035.jpg,Iluminação + inclinação,0.0446927374301676,0.24242424242424243,0.7526891205733336,-2.2,5.4877802999690175,"busca em largura; conhecida pela sigla BFS. explora um grafo visitando primeiro todos os vizinhos de
+umn n6 antes de avançar para os níveis seguintes Ela usa uma fila € encontra 0 caminho com 0 menor
+numero de arestas. Já a busca em profundidade , ou DFS, segue um caminho até 0 fim antes de voltar. €
+costuma ser implementada com uma pilha ou com recursão"
+sintetica_035.jpg,Completo (+ remoção de ruído),0.061452513966480445,0.30303030303030304,0.6452946683466538,-2.2,7.111647100013215,"busca em largura, conhecida pela sigla BFS, explora um gralo visilando primeiro lodos os vuinhos dc
+um n6 antes de avançar para os níveis seguintes  Ela usa uma fila € encontra 0 caminho com 0 menor
+numero de arestas. Já a busca CM profundidade , ou DFS, segue um caminho ate 0 fim antes de voltar, €
+costuma ser implementada com uma pilha ou comn recursão"
+sintetica_035.jpg,Completo + binarização,0.08100558659217877,0.3787878787878788,0.6053685231307917,-2.2,6.278406700002961,"busca em largura, conhecida pela sigla BFS, explora um gralo visitando primeiro todos os vzinhos dc
+um n6 anlcs de ªvançar para os nívcis scguintes. Ela usa uma lila € enconua 0 caminho com 0 menor
+número de arestas. Ja ª busca em profundidade. ou DFS, scgue um canuinho até 0 lim antes de vollar, e
+cosluma scr implementada com uma pilha ou com recursio."
+sintetica_036.jpg,Sem pré-processamento,0.5437665782493368,0.640625,0.8729683313584524,0.0,8.050743500003591,"A fotossíntese
+0 0 processo
+convertem energia luminosa pelo qual plantas, algas e algumas
+clorofila absorve à luz em energia química. Nos bactérias
+glicose libera oxigênio. e, a partir de gás carbônico cloroplastos , a
+que depende Esse processo ocorre água, a célula produz
+ciclo de Calvin. diretamente da luz, eà fase em duas fases: à fase clara,
+escura, também chamada
+de"
+sintetica_036.jpg,Iluminação + inclinação,0.005305039787798408,0.046875,0.7487635448183568,5.7,8.749263299978338,"A fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias
+convertem energia luminosa em energia química. Nos cloroplastos, a
+clorofila absorve a luz e, a partir de gás carbônico e água, a célula produz
+glicose e libera oxigênio. Esse processo ocorre em duas fases: a fase clara ,
+que depende diretamente da luz, e a fase escura, também chamada de
+ciclo de Calvin."
+sintetica_036.jpg,Completo (+ remoção de ruído),0.007957559681697613,0.046875,0.7410755642025277,5.7,10.723683399963193,"A fotossíntese e 0 processo pelo qual plantas, algas e algumas bactérias
+convertem energia luminosa em energia química. Nos cloroplastos, a
+clorofila absorve a luz e, a partir de gás carbônico € água, a célula produz
+glicose e libera oxigênio. Esse processo ocorre em duas fases: a fase clara,
+que depende diretamente da luz, e a fase escura, também chamada de
+ciclo de Calvin."
+sintetica_036.jpg,Completo + binarização,0.021220159151193633,0.09375,0.6759101456201556,5.7,8.750991299981251,"fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias
+convertem energia luminosa em energia química. Nos cloroplastos, a
+clorofila absorve a luz e, & partir de gás carbônico 0 água, a célula produz
+glicose 0 libera oxigênio. Esse processo ocorre em duas fases: a fase clara,
+que depende diretamente da luz, a fase escura, também chamada de
+ciclo de Calvin."
+sintetica_037.jpg,Sem pré-processamento,0.5507692307692308,0.6326530612244898,0.9394752650111655,0.0,7.6016883999691345,"origina duas células-filhas geneticamente
+A mitose é a divisão celular que prófase, metáfase, anáfase e
+célula-mãe. Ela é dividida em metade do número de
+idênticas à produz quatro células com gametas, contribuindo
+telófase. Já a meiose responsável pela formação dos
+cromossomos e é variabilidade genética das espécies.
+para a"
+sintetica_037.jpg,Iluminação + inclinação,0.003076923076923077,0.04081632653061224,0.8443511158233479,-4.45,8.629116000025533,"A mitose é a divisão celular que origina duas células-filhas geneticamente
+idênticas à célula-mãe. Ela é dividida em prófase, metáfase, anáfase e
+telófase. Já a meiose produz quatro células com metade do número de
+cromossomos e é responsável pela formação dos gametas, contribuindo
+para a variabilidade genética das espécies ."
+sintetica_037.jpg,Completo (+ remoção de ruído),0.009230769230769232,0.08163265306122448,0.68147897793108,-4.5,7.500236899999436,"A mitose é a divisão celular que origina duas células-filhas geneticamente
+Idênticas à célula-mãe. Ela é dividida em prófase, metáfase, anáfase e
+telófase. Já a meiose produz quatro células com metade do número de
+cromossomos e é responsável pela formação dos gametas, contribuindo
+para a varlabilidade genética das espécies ."
+sintetica_037.jpg,Completo + binarização,0.055384615384615386,0.2653061224489796,0.6703345695025226,-4.5,7.9951023000176065,"mitose € divisão celular que origina duas células-filhas geneticamente
+idênticas célula-mfe. Ela é dividida em prófase, metáfase, anáfase e
+telófase. J6 meiose produz quatro célulos com metade do número de
+cromossomos @ é responsável pela formaçõo dos gametas, contribuindo
+paro varlabilidade genética das espécies."
+sintetica_038.jpg,Sem pré-processamento,0.40625,0.5517241379310345,0.8451755932185787,0.0,6.3912416999810375,"A Revolução Industrial começou na Inglaterra, na segunda metade do século XVIII. A uso da máquina a vapor,
+substituição do trabalho manual pelas máquinas, especialmente com crescimento das cidades. Ao mesmo tempo, surgiram
+transformou a produção têxtil e acelerou 0 precárias nas fábricas , que deu origem aos primeiros
+jornadas de trabalho longas e condições
+movimentos operários_"
+sintetica_038.jpg,Iluminação + inclinação,0.018229166666666668,0.15517241379310345,0.7463670015020507,-1.9,7.573844099999405,"A Revolução Industrial começou na Inglaterra, na segunda metade do século XVIIL. A
+substituição do trabalho manual pelas máquinas, especialmente com 0 uso da máquina a vapor ,
+transformou a produção têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo, surgiram
+jornadas de trabalho longas e condições precárias nas fábricas , 0 que deu origem aos primeiros
+movimentos operários"
+sintetica_038.jpg,Completo (+ remoção de ruído),0.013020833333333334,0.10344827586206896,0.7878007148025743,-1.9,7.208770900033414,"A Revolução Industrial começou na Inglaterra, na segunda metade do século XVIII. A
+substituição do trabalho manual pelas máquinas, especialmente com 0 uso da máquina a vapor,
+transformou a produção têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo, surgiram
+jornadas de trabalho longas e condições precárias nas fábricas , 0 que deu origem aos primeiros
+movimentos operários"
+sintetica_038.jpg,Completo + binarização,0.015625,0.10344827586206896,0.6836794077011807,-1.9,6.537936599983368,"A Revolução Industrial começou na Inglaterra; na segunda metade do século XVIII. A
+substituição do trabalho manual pelas máquinas, especialmente com uso da máquina a vapor ,
+transformou a produção têxtil e acelerou 0 crescimento das cidades. Ao mesmo tempo, surgiram
+jornadas de trabalho longas e condições precárias nas fábricas, 0 que deu origem aos primeiros
+movimentos operários."
+sintetica_039.jpg,Sem pré-processamento,0.5887323943661972,0.8387096774193549,0.4203802430610512,0.0,6.068242900015321,"Indcpendencia do Brasil foi
+Ipiranga cmn Sjo Paulo 0 proceso f0i proclamada em 7 de sctembro de 1822 por Dom Pedro Lax
+portugucsas para quc 0 Brasil cornac Finfluenciado pela volta da Iamihia Ic Portugal margensido nacho
+coio lorma de govcrno condição de colona Apor € Peha prcwão das Concs
+ndependencia Opan adotou
+m+narquu"
+sintetica_039.jpg,Iluminação + inclinação,0.19154929577464788,0.7096774193548387,0.14062916564608513,4.6,7.777358899998944,"Independencua do Brasil fot proclamada cm 7 de sclcmbro Jc 1822 por Dom Pedro [ 4 margens do nacho
+Ipiranga cm SJo Paulo 0 procoso lon inllucnciado pcla volua &a lamtla rcal , Porugal € Pcla pressão da Cortcs
+portugucsa< Para quc @ Brasal retornasse 4 condiçao de colont  Apos # indcpendencia 0 Panx adotou monarquia
+como forma de goveino"
+sintetica_039.jpg,Completo (+ remoção de ruído),0.4619718309859155,0.9032258064516129,0.1015214873020089,4.6,8.797265100001823,"Indcpendencun do Drasil fot proclamada cmn 7deccicmbro de IR poeom Podio [ neondonh
+Ipwne cm Suo Paulo Opcosolo inllucncudo Pela col &lamha (cai Fonugal € Dl proaoda(ic
+porugucpuquc 0 1nasl (clonnae conhsao de colonn Ap idcpcndcncu "" 1 adolau
+como lorma de Coverno"
+sintetica_039.jpg,Completo + binarização,0.7915492957746478,1.0,0.008332234389712197,4.6,7.986732000019401,"Iebpeadhncn d Brts l Pfodaeb016 Hebid 6 Ilzy D fap1 B290e6
+Ipuu € 51 Pudo DZZf1522122
+Pontvfuee P&0 Brsd nolonass | Qoabao# €8 Aea M
+lon#ovaed"
+sintetica_040.jpg,Sem pré-processamento,0.518840579710145,0.6825396825396826,0.9436949338770435,0.0,8.855965800001286,"afis rma que , em todo triângulo retângulo,
+0 teorema de Pitágoras quadrados dos catetos A
+da hipotenusa é igual a soma dos
+quadrado ao ângulo reto e também maior lado do
+hipotenusa é 0 lado oposto 3 e 4 centímetros,
+Por exemplo  se 05 catetos medem
+triângulo - pois nove mais dezesseis é igual a
+hipotenusa mede 5 centímetros
+vinte e cinco"
+sintetica_040.jpg,Iluminação + inclinação,0.03768115942028986,0.2222222222222222,0.9215723134810088,-2.75,7.572512300044764,"0 teorema de Pitágoras afirma que , em todo triângulo retângulo ,
+quadrado da hipotenusa é igual à soma dos quadrados dos catetos A
+hipotenusa é 0 lado oposto ao ângulo reto e também 0 maior lado do
+triângulo . Por exemplo se o5 catetos medem 3 e 4 centímetros,
+hipotenusa mede 5 centímetros, pois nove mais dezesseis é igual a
+vinte e cinco"
+sintetica_040.jpg,Completo (+ remoção de ruído),0.028985507246376812,0.19047619047619047,0.9347705384618615,-2.75,7.740129000041634,"0 teorema de Pitágoras afirma que , em todo triângulo retângulo, 0
+quadrado da hipotenusa é igual à soma dos quadrados dos catetos. A
+hipotenusa é 0 lado oposto ao ângulo reto e também 0 maior lado do
+triângulo . Por exemplo , se 05 catetos medem 3 e 4 centímetros, a
+hipotenusa mede 5 centímetros, pois nove mais dezesseis é igual a
+vinte e cinco"
+sintetica_040.jpg,Completo + binarização,0.057971014492753624,0.23809523809523808,0.8841634557576964,-2.75,8.66788429999724,"0 teorema de Pitágoras afirma que  em todo triângulo retângulo,
+quadrado da hipotenusa é igual à soma dos quadrados dos catetos - A
+hipotenusa é 0 lado oposto ao ângulo reto e também maior lado do
+triângulo- Por exemplo_ se 05 catetos medem 3 e 4 centímetros_
+hipotenusa mede 5 centímetros pois nove mais dezesseis é igual a
+vinte cinco_"
+sintetica_041.jpg,Sem pré-processamento,0.22551928783382788,0.6901408450704225,0.6572283522178737,0.0,6.208375699992757,"Uma  funçao do Primeiro gfau {ea forma f(x) ax 6 , en que São nuderos
+reais diferente de Zefo , Seu grafico sempre Una reta 0 coeficrente
+indica inclinação da reto: quondo ele Positivo , função crescente, quando
+negativo , tunçao decrescente 0 coeficiente indica pento em que reta
+conta 0-e1xo Y"
+sintetica_041.jpg,Iluminação + inclinação,0.2166172106824926,0.676056338028169,0.71782499892272,-0.2,6.184677499986719,"Uma   funçao do Primeiro grau cen forma f(x) ax 6 , en que eb sã0 nuneros
+reais diferente de Zero , Seu grafico senpre Una reta 0 coeficiente
+indica inclnaçáo da reta: quondo ele Positivo, função crescente, quando
+negativo, funçao decrescente 0 coeficiente indice ponto en que reta
+cota 81xo y"
+sintetica_041.jpg,Completo (+ remoção de ruído),0.16023738872403562,0.5211267605633803,0.7427580599435929,-0.2,6.276374700013548,"Uma  funçeo do primeiro grau ten forma f(x) 5 ak 6 , en que b são núneros
+reais é diferente de zero, Seu grafico senpre Umna reta 0 coeficiente
+indica inclinação da reta: quondo ele Positivo, função crescente, quando
+negativo , funçao decrescente. 0 coeficiente b indica 0 ponto em que reta
+corta eixo y."
+sintetica_041.jpg,Completo + binarização,0.2789317507418398,0.7887323943661971,0.5757780026034217,-0.2,6.7547850999981165,"Uab funç8o 0o pripalro grau tea forma f(x) ax b , que b s8o números
+reals díferente de zero_ Seu 9rffico sehpre Uhi reta 0 cooflclente
+indica Incllnaçbo d rete: quando <le posltivo, funç8o cresconte, quando
+nogativo, funçfo decrescente. 0 coeticlante p 1ndíce ponto que rata
+corte sxo y-"
+sintetica_042.jpg,Sem pré-processamento,0.16467065868263472,0.45098039215686275,0.7332953257436282,0.0,6.732176999968942,"tabela pcriódica organiza os clementos químicos cm ordem crescente de numcro
+alômico, quc corrcsponde quantidade de prótons no núcleo
+As colunas são
+chamadas de famílias ou grupos € reúnem clementos com propriedades quimicas
+semclhantes. As linhas horizontais são 0s períodos € indicam
+cletrônicas dos átomos 0 numcro de camadas"
+sintetica_042.jpg,Iluminação + inclinação,0.08682634730538923,0.4117647058823529,0.61289662879554,2.25,6.655998200003523,"tabela pcriodica organiza 0s elementos químicos em ordcm crescente de númcro
+atônuco quc corrcsponde à quantidade de prótons no núcleo As colunas são
+chamadas de fanlias ou grupos € reúnem clementos com propriedades químicas
+semclhantes As linhas horvzontais sao 0s períodos € indicam 0 numcro de camadas
+cletronicas dos átomos"
+sintetica_042.jpg,Completo (+ remoção de ruído),0.06287425149700598,0.29411764705882354,0.5655870774287927,2.2,6.751793999981601,"tabela pcriodica organiza 0s elementos químicos em ordem crescente de númcro
+atômico, quc corresponde à quantidade de prótons no núcleo As colunas são
+chamadas de familias ou grupos € reúnem elementos com propricdades químicas
+semclhantes. As linhas horizontais são os períodos indicam 0 numero de camadas
+cletronicas dos alomos"
+sintetica_042.jpg,Completo + binarização,0.11976047904191617,0.5490196078431373,0.5090319286582706,2.2,6.168291700014379,"tabela pcriódica orpaniza 0s elementos químicos cm ordcm crescenlc dc númcro
+atômico; que corcsponde_ quantidade dc prótons no núclco. As colunas so
+chamadas de famflias ou grupos rcúncm elcmcntos com propricdadcs químicas
+scmclhantcs. As linhas horizontais são os pcríodos € indicam 0 númcro dc camadas
+cletronícas dos átomos"
+sintetica_043.jpg,Sem pré-processamento,0.46647230320699706,0.6212121212121212,0.8663606479113936,0.0,6.353716799989343,"Uma reação de neutralização
+sal e água_ Um exemplo clássico é acontece quando um ácido reage com uma base.
+sódio, a reação entre 0 ácido clorídrico € 0 formando
+solução: que produz cloreto de sódio, 0 sal de cozinha, 0 hidróxido de
+valores abaixo de 7 indicam meio ácido, pH mede a acidez de uma
+meio neutro. acima de 7 meio básico e igual a 7"
+sintetica_043.jpg,Iluminação + inclinação,0.02040816326530612,0.10606060606060606,0.7550399089438621,4.45,7.156647199997678,"Uma reação de neutralização acontece quando um ácido reage com uma base, formando
+sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico e 0 hidróxido de
+sódio, que produz cloreto de sódio, 0 sal de cozinha 0 pH mede a acidez de uma
+solução: valores abaixo de 7 indicam meio ácido acima de 7 meio básico e igual a 7
+meio neutro"
+sintetica_043.jpg,Completo (+ remoção de ruído),0.02040816326530612,0.10606060606060606,0.8023120785708162,4.45,8.610289000032935,"Uma reação de neutralização acontece quando um ácido reage com uma base, formando
+sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico € 0 hidróxido de
+sódio, que produz cloreto de sódio, 0 sal de cozinha_ 0 pH mede a acidez de uma
+solução: valores abaixo de 7 indicam meio ácido, acima de 7 meio básico e igual a 7
+meio neutro"
+sintetica_043.jpg,Completo + binarização,0.026239067055393587,0.10606060606060606,0.7921235295573001,4.45,7.563458400021773,"Uma reação de neutralização acontece quando um ácído reage com uma base, formando
+sal e água. Um exemplo clássico é a reação entre 0 ácido clorídrico e 0 hidróxido de
+sódio; que produz cloreto de sódio, sal de cozinha. pH mede a acidez de uma
+solução: valores abaixo de 7 indicam meio ácido, acima de 7 meio básico e igual a 7
+meio neutro"
+sintetica_044.jpg,Sem pré-processamento,0.4222222222222222,0.4807692307692308,0.9419686178404117,0.0,6.82419439998921,"0 clima semiárido predomina em grande parte do Nordeste brasileiro
+caracteriza por chuvas escassas e se
+ano A vegetação típica dessa região é irregulares; concentradas em poucos meses do
+adaptadas à falta de água, como cactos Caatinga, formada por plantas
+estação seca. árvores que perdem as folhas durante"
+sintetica_044.jpg,Iluminação + inclinação,0.015873015873015872,0.07692307692307693,0.7802352389586265,2.55,7.70750630000839,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas e irregulares, concentradas em poucos meses do
+ano A vegetação típica dessa região é Caatinga, formada por plantas
+adaptadas à falta de água, como cactos e árvores que perdem as folhas durante a
+estação seca"
+sintetica_044.jpg,Completo (+ remoção de ruído),0.006349206349206349,0.038461538461538464,0.8123886929223545,2.55,6.470169699983671,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas e irregulares, concentradas em poucos meses do
+ano. A vegetação típica dessa região é a Caatinga, formada por plantas
+adaptadas à falta de água, como cactos e árvores que perdem as folhas durante a
+estação seca_"
+sintetica_044.jpg,Completo + binarização,0.012698412698412698,0.038461538461538464,0.857582847695424,2.55,6.195385899976827,"clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas irregulares, concentradas em poucos meses do
+ano. A vegetação típica dessa região é a Caatinga, formada por plantas
+adaptadas à falta de água, como cactos e árvores que perdem as folhas durante a
+estação seca."
+sintetica_045.jpg,Sem pré-processamento,0.05128205128205128,0.28846153846153844,0.7314517550075165,0.0,5.398508400015999,"As placas tectônicas são grandes blocos que formam a litosfora 0 s0
+movimentam lentamente sobre 0 manto Nas bordas onde as placas 0
+encontram ocorrem terremotos, vulcoes 8 a formação de cadeías de
+montanhas 4 Cordilheira dos Andes, por exemplo surgiu do choque
+entre & placa de Nazca 0 a placa Sul-Americana,"
+sintetica_045.jpg,Iluminação + inclinação,0.04807692307692308,0.2692307692307692,0.774014675830865,0.35,5.759237200021744,"As placas tectônicas são grandes blocos que formam a litosfera 58
+movimentan lentamente sobre 0 manto Nas bordas onde as placas se
+encontram ocorren terremotos, vulcoes 0 a formação de cadeias de
+montanhas A Cordilheira dos Andes , por exemplo surgiu do choque
+entre & placa de Nazca e a placa Sul-Americana,"
+sintetica_045.jpg,Completo (+ remoção de ruído),0.02564102564102564,0.1346153846153846,0.7766138885428467,0.3,5.723831600043923,"As placas tectônicas são grandes blocos que formam a litosfera 0 se
+movimentam lentamente sobre 0 manto. Nas bordas onde as placas se
+encontram ocorrem terremotos, vulcoes 0 a formação de cadeias de
+montanhas. Cordilheira dos Andes, por exemplo, surgiu do choque
+entre a placa de Nazca 0 a placa Sul-Americana,"
+sintetica_045.jpg,Completo + binarização,0.07051282051282051,0.3076923076923077,0.6077660509162564,0.3,6.106085600040387,"As placas tectônicas são grandes blocos que formam Litosfera s0
+movimentam lentamente sobre manto. Nas bordas ondo as placas s0
+encontram ocorrem terremotos, vulcõos 0 a formação de cadeías de
+montanhes. A Cordtlheíra dos Andes, por exomplo, surgiu do choque
+entre place de Nazca a placa Sul-Americana."
+sintetica_046.jpg,Sem pré-processamento,0.6149732620320856,0.8947368421052632,0.6263307947697045,0.0,5.214898800011724,"problema Em programação, 45
+scquencia finita dc passos ben definidos para resolver um conforme uma condição;
+Ut algontmo € uma pcnnulen cxecutar trechos difercntes Variavcis
+cstruturas de decisão, cono 0 comando 1. while . exccutam 0 mcsmo bloco vánas vczes
+enquanto as cstruturas de repctiçho, comllo lOr € durante a exccução.
+aruazcnam Os valorcs quc programa manpula"
+sintetica_046.jpg,Iluminação + inclinação,0.14705882352941177,0.631578947368421,0.362856680462891,-3.8,6.8396512000472285,"Um algontmo € uma sequencia linuta de passos bcn definidos para resolver umn problema. Em programação, 45
+cstruluras dc decisão como 0 comuando 1. penilem crccutar Irechos diferentes conforme umaA condição
+enquanto as cstruturas de repctção, como for € while . exccutam 0 mcsmo bloco váras vezes Variaveis
+arna7ehamn O5 Yalores que 0 programn4 mampula durante a exccução"
+sintetica_046.jpg,Completo (+ remoção de ruído),0.11497326203208556,0.5614035087719298,0.3640993859629203,-3.8,6.341865999973379,"Um algontmo € uma sequência finua de passos ben definudos para resolver um problema. Em programação, as
+cstruturas dc decisão como 0 comando 1, pcnnilem cxccutar trechos difcrentes conforme umna condição,
+enquanto as cstruturas de rcpetção, como lor € while . exccutam 0 mcsmo bloco vánas vezcs. Variaveis
+arazenam os valores quc 0 prvgramna manpula durante a exccução"
+sintetica_046.jpg,Completo + binarização,0.21122994652406418,0.7894736842105263,0.26054103106924065,-3.8,8.616957599995658,"Um algortmno € uma scqucncia linula de passos beou dcfinudos para resolvar umJ problcmua: Em propramação, #s
+estrutures d dccisho, como 0 comando i, pcrmitcu exccutar Ircchos diletrntcs conformc ume coodirdo.
+cnquanlo 9s csunturas dc [cpetiç-o; como for € whilc. cxccutam 0 ncsmo bloco várias vaucs. Variávcis
+anpazcnam 0s valorcs quc procrama manipola durantc exccução."
+sintetica_047.jpg,Sem pré-processamento,0.008379888268156424,0.045454545454545456,0.8410612807743956,0.0,6.952971799997613,"A busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar para os
+níveis seguintes. Ela usa uma fila e encontra 0 caminho com 0 menor
+número de arestas. Já a busca em profundidade, ou DFS, segue um
+caminho até 0 fim antes de voltar, e costuma ser implementada com uma
+pilha ou com recursão."
+sintetica_047.jpg,Iluminação + inclinação,0.01675977653631285,0.12121212121212122,0.6617111346950919,-1.35,7.120126100024208,"A busca em largura, conhecida pela sigla BFS , explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar para os
+níveis seguintes Ela usa uma fila e encontra 0 caminho com 0 menor
+número de arestas. Já a busca em profundidade, ou DFS , segue um
+caminho até 0 fim antes de voltar, e costuma ser implementada com uma
+pilha ou com recursão."
+sintetica_047.jpg,Completo (+ remoção de ruído),0.013966480446927373,0.10606060606060606,0.702809423821977,-1.35,9.579957999987528,"A busca em largura, conhecida pela sigla BFS , explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar para os
+níveis seguintes. Ela usa uma fila e encontra 0 caminho com 0 menor
+número de arestas. Já a busca em profundidade, ou DFS , segue um
+caminho até 0 fim antes de voltar, e costuma ser implementada com uma
+pilha ou com recursão."
+sintetica_047.jpg,Completo + binarização,0.0223463687150838,0.12121212121212122,0.8003731577517612,-1.35,7.340356300002895,"busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar para os
+níveis seguintes. Ela usa uma fila 0 encontra 0 caminho com 0 menor
+número de arestas. Já a busca em profundidade, ou DFS, segue um
+caminho até 0 fim antes de voltar , 0 costuma ser implementada com uma
+pilha ou com recursão."
+sintetica_048.jpg,Sem pré-processamento,0.4244031830238727,0.546875,0.8151411548876938,0.0,5.671291699982248,"A fotossíntese é processo pelo qual plantas , algas e algumas bactérias convertem a luz e, a
+clorofila absorve
+energia luminosa em energia química. Nos cloroplastos , célula produz glicose e libera oxigênio. Esse processo
+partir de gás carbônico e água, diretamente da luz, a fase escura,
+ocorre em duas fases: a fase clara, que depende
+também chamada de ciclo de Calvin."
+sintetica_048.jpg,Iluminação + inclinação,0.034482758620689655,0.125,0.7784726743026322,-1.9,6.835175400017761,"fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias convertem
+energia luminosa em energia química. Nos cloroplastos , clorofila absorve a luz e,
+partir de gás carbônico água, célula produz glicose e libera oxigênio. Esse processo
+ocorre em duas fases: fase clara, que depende diretamente da luz, e a fase escura,
+também chamada de ciclo de Calvin."
+sintetica_048.jpg,Completo (+ remoção de ruído),0.01856763925729443,0.078125,0.7822783983028055,-1.9,6.951549999997951,"A fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias convertem
+energia luminosa em energia química. Nos cloroplastos , clorofila absorve a luz e, a
+partir de gás carbônico água, célula produz glicose e libera oxigênio. Esse processo
+ocorre em duas fases: a fase clara, que depende diretamente da luz, e a fase escura,
+também chamada de ciclo de Calvin."
+sintetica_048.jpg,Completo + binarização,0.03183023872679045,0.125,0.824957714537384,-1.9,7.080857099965215,"A fotossíntese é 0 processo pelo qual plantas, algas e algumas bactérias convertem
+energia luminosa em energia química. Nos cloroplastos , clorofila absorve a luz e,
+partir de gás carbônico água, célula produz glicose libera oxigênio. Esse processo
+ocorre em duas fases: a fase clara, que depende diretamente da luz, e a fase escura,
+também chamada de ciclo de Calvin"
+sintetica_049.jpg,Sem pré-processamento,0.10461538461538461,0.5510204081632653,0.802134120446134,0.0,5.2432104999898,"Amitose divisão celular que origina duas celulas-filhas geneticamente
+identicas celula-mae. Ela e dividida en profase, metofase, anáfase telofase. Ja
+meiose produz quatro celulas con metade do numero de cromossonos responsável
+pela formaçao dos gametas, contribuindo para variabilidade genetica das especies ."
+sintetica_049.jpg,Iluminação + inclinação,0.12307692307692308,0.6122448979591837,0.6399387863324555,-0.7,4.888733499974478,"Amitose 0 divisão celular que origina duas celulas-filhas geneticanente
+identicas celula-nae . Ela edividido en profase, metofase, anafase telofase. Ja
+meiose produz quatro celulas con metade do numero de cromossonos responsavel
+pele formação dos gametas, contribuindo para variabilidade genetica das especies"
+sintetica_049.jpg,Completo (+ remoção de ruído),0.22153846153846155,0.8367346938775511,0.517234874642857,-0.7,5.071015499997884,"Anitose divis6O celulor que origina duos celulas-filhas geneticorente
+identicas celule-cae. Elo edivIdIdo ea profase, cetofose, onofose telorose Ja
+Felose produz quatro celulos con cetade do nurero de crorossoros responsovel
+pele forraçao dos gonetos, contribuindo paro voriabilidade genetico das especles ."
+sintetica_049.jpg,Completo + binarização,0.37538461538461537,0.9387755102040817,0.20613047971128193,-0.7,5.30806529999245,"Pitose dlvlsbo colular qu* origlne duas colulas-f1lhas %anotlcononte
+intícos c6lula-Ey_ Ele dlvldlde 0 Prófase , wtofose . onafas0 tolofase _ J6
+Malose Produz quatro c6lulas coa sted do númaro 8 cro0s8020s rasponsavol
+pale fornklo dos 9euat0s , contribulndo por varlebllldede Oonotice des aspdclos _"
+sintetica_050.jpg,Sem pré-processamento,0.028645833333333332,0.22413793103448276,0.962123503402015,0.0,7.586353000020608,"4 Revolução Industrial começou na Inglaterra, na segunda
+metade do século XVIII A substituição do trabalho manual
+pelas máquinas especialmente com 0 uso da máquina a vapor ,
+transformou a produção têxtil e acelerou 0 crescimento das
+cidades Ao mesmo tempo , surgiram jornadas de trabalho
+longas e condições precárias nas fábricas 0 que deu origem
+aos primeiros movimentos operários"
+sintetica_050.jpg,Iluminação + inclinação,0.03125,0.20689655172413793,0.9576096036072791,0.65,7.122021000017412,"4 Revolução Industrial começou na Inglaterra, na segunda
+metade do século XVIII A substituição do trabalho manual
+pelas máquinas especialmente com 0 uso da máquina a vapor ,
+transformou a produção têxtil e acelerou 0 crescimento das
+cidades Ao mesmo tempo surgiram jornadas de trabalho
+longas e condições precárias nas fábricas que deu origem
+aos primeiros movimentos operários"
+sintetica_050.jpg,Completo (+ remoção de ruído),0.03125,0.22413793103448276,0.9758259685297259,0.65,6.4966923000174575,"4 Revolução Industrial começou na Inglaterra, na segunda
+metade do século XVIII A substituição do trabalho manual
+pelas máquinas especialmente com 0 uso da máquina a vapor ,
+transformou a produção têxtil e acelerou 0 crescimento das
+cidades Ao mesmo tempo , surgiram jornadas de trabalho
+longas e condições precárias nas fábricas que deu origem
+aos primeiros movimentos operários"
+sintetica_050.jpg,Completo + binarização,0.0390625,0.22413793103448276,0.9482434134534118,0.65,6.160513599985279,"Revolução Industrial começou na Inglaterra_ na segunda
+metade do século XVIII A substituição do trabalho manual
+pelas máquinas . especialmente com 0 uso da máquina a vapor,
+transformou a produção têxtil e acelerou crescimento das
+cidades _ Ao mesmo tempo _ surgiram jornadas de trabalho
+longas e condições precárias nas fábricas _ que deu origem
+aos primeiros movimentos operários."
+sintetica_051.jpg,Sem pré-processamento,0.008450704225352112,0.04838709677419355,0.7833319791945853,0.0,4.1033949999837205,"A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom
+Pedro I, às margens do riacho Ipiranga, em São Paulo. 0 processo foi
+influenciado pela volta da família real a Portugal e pela pressão das Cortes
+portuguesas para que 0 Brasil retornasse à condição de colônia. Após a
+independência, 0 país adotou a monarquia como forma de governo."
+sintetica_051.jpg,Iluminação + inclinação,0.008450704225352112,0.04838709677419355,0.8120225396760656,0.7,4.732495600008406,"A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom
+Pedro I, às margens do riacho Ipiranga, em São Paulo. 0 processo foi
+influenciado pela volta da família real a Portugal e pela pressão das Cortes
+portuguesas para que 0 Brasil retornasse à condição de colônia. Após a
+independência, 0 país adotou a monarquia como forma de governo."
+sintetica_051.jpg,Completo (+ remoção de ruído),0.008450704225352112,0.04838709677419355,0.7868623276550455,0.7,4.918507799971849,"A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom
+Pedro I, às margens do riacho Ipiranga, em São Paulo. 0 processo foi
+influenciado pela volta da família real a Portugal e pela pressão das Cortes
+portuguesas para que 0 Brasil retornasse à condição de colônia. Após a
+independência, 0 país adotou a monarquia como forma de governo."
+sintetica_051.jpg,Completo + binarização,0.01971830985915493,0.08064516129032258,0.777777097443448,0.7,4.258240399998613,"Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom
+Pedro I, às margens do riacho Ipiranga, em São Paulo. 0 processo foi
+influenciado pela volta da família real a Portugal e pela pressão das Cortes
+portuguesas para que 0 Brasil retornasse à condição de colônia. Após a
+independência, 0 país adotou monarquia como forma de governo."
+sintetica_052.jpg,Sem pré-processamento,0.43478260869565216,0.5714285714285714,0.9630497413115778,0.0,6.075882599980105,"0 teorema de
+retângulo , 0 Pitágoras quadrado afirma que em todo triângulo
+quadrados da hipotenusa é igual à soma
+dos catetos  A dos
+ângulo reto e também hipotenusa é 0 lado oposto ao
+0 maior lado do
+exemplo se 05 catetos medem 3 triângulo. Por
+hipotenusa mede e 4 centímetros, a
+5 centímetros, pois
+dezesseis é igual a vinte e cinco nove mais"
+sintetica_052.jpg,Iluminação + inclinação,0.03768115942028986,0.2698412698412698,0.9354087244216743,4.2,6.986389900033828,"0 teorema de Pitágoras afirma que , em todo triângulo
+retângulo , 0 quadrado da hipotenusa é igual à soma dos
+quadrados dos catetos A hipotenusa é 0 lado oposto ao
+ângulo reto e também 0 maior lado do triângulo- Por
+exemplo , se 0s catetos medem 3 e 4 centímetros , a
+hipotenusa mede 5 centímetros pois nove mais
+dezesseis é igual a vinte e cinco"
+sintetica_052.jpg,Completo (+ remoção de ruído),0.03768115942028986,0.2698412698412698,0.9449972524595004,4.2,8.476160400023218,"0 teorema de Pitágoras afirma que , em todo triângulo
+retângulo , 0 quadrado da hipotenusa é igual à soma dos
+quadrados dos catetos A hipotenusa é 0 lado oposto ao
+ângulo reto e também 0 maior lado do triângulo Por
+exemplo , se 0s catetos medem 3 e 4 centímetros , a
+hipotenusa mede 5 centímetros pois nove mais
+dezesseis é igual a vinte e cinco_"
+sintetica_052.jpg,Completo + binarização,0.0463768115942029,0.2857142857142857,0.9468568732549502,4.2,8.26261610002257,"0 teorema de Pitágoras afirma que, em todo triângulo
+retângulo , 0 quadrado da hipotenusa é igual à soma dos
+quadrados dos catetos _ A hipotenusa é 0 lado oposto a0
+ângulo reto e também 0 maior lado do triângulo _ Por
+exemplo , se 05 catetos medem 3 e 4 centímetros , a
+hipotenusa mede 5 centímetros pois nove mais
+dezesseis é igual a vinte e cinco"
+sintetica_053.jpg,Sem pré-processamento,0.5875370919881305,0.704225352112676,0.9575725395488223,0.0,5.896354300028179,"ax b , em que
+tem a forma f(x) e
+função do primeiro grau de zero Seu gráfico
+Uma reais e a é diferente da reta:
+e b São números a indica a inclinação
+reta 0 coeficiente e quando e
+sempre uma a função é crescente, b indica
+quando ele é positivo, decrescente. 0 coeficiente
+a função é
+negativo, corta 0 eixo y
+ponto em que a reta"
+sintetica_053.jpg,Iluminação + inclinação,0.05934718100890208,0.2112676056338028,0.9519576624854664,-4.85,6.740832099982072,"Uma função do primeiro grau tem a forma f(x) ax b , em que
+e b São números reais a é diferente de zero Seu gráfico
+sempre uma reta 0 coeficiente a indica a inclinação da reta:
+quando ele é positivo, a função é crescente, e quando é
+negativo a função é decrescente. 0 coeficiente b indica
+ponto em que a reta corta 0 eixo y"
+sintetica_053.jpg,Completo (+ remoção de ruído),0.03857566765578635,0.14084507042253522,0.9168603290948424,-4.85,7.886541299987584,"Uma função do primeiro grau tem a forma f(x) ax b , em  que
+e b são números reais e a é diferente de zero. Seu gráfico
+sempre uma reta. 0 coeficiente a indica a inclinação da reta:
+quando ele é positivo, a função é crescente, e quando é
+negativo, a função é decrescente. 0 coeficiente b indica 0
+ponto em  que a reta corta 0 eixo y-"
+sintetica_053.jpg,Completo + binarização,0.06824925816023739,0.2676056338028169,0.8978042667750032,-4.85,7.505809100053739,"Uma função do primeiro grau tem à forma f(x) ax b , em que 9
+b são números reais e à é diferente de zero_ Seu gráfico é
+sempre uma reta_ 0 coeficiente a indica a inclinação da reta:
+quando ele é positivo a função e crescente, e quando
+negativo, 9 função é decrescente_ 0 coeficiente b indica
+ponto em que a reta corta 0 eixo y"
+sintetica_054.jpg,Sem pré-processamento,0.023952095808383235,0.13725490196078433,0.7061283949723659,0.0,3.6297345000202768,"tabela periódica organiza os elementos químicos em ordem crescente de
+número atômico; que corresponde à quantidade de prótons no núcleo. As
+colunas são chamadas de famílías ou grupos € reúnem elementos com
+propriedades químicas semelhantes. As linhas horizontais são os períodos €
+indicam 0 número de camadas cletrônicas dos átomos."
+sintetica_054.jpg,Iluminação + inclinação,0.03293413173652695,0.1568627450980392,0.5894265103419963,1.3,4.153037899988703,"tabela periódica organiza os elementos químicos em ordem crescente de
+número atômico, que corresponde à quantidade de prótons no núcleo. As
+colunas são chamadas de famílias ou grupos € reúnem elementos com
+propriedades químicas semelhantes. As linhas horizontais são os periodos €
+indicam 0 númerO de camadas cletrónicas dos âlomos."
+sintetica_054.jpg,Completo (+ remoção de ruído),0.038922155688622756,0.19607843137254902,0.7191219249188383,1.3,4.385722100036219,"labela periódica organiza os elementos químicos em ordem crescente de
+número atômico, que corresponde à quantidade de prótons no núcleo. As
+colunas são chamadas de famílías ou grupos € rcúnem clementos com
+propriedades químicas semelhantes. As linhas horizontais são os períodos
+indicam 0 número de camadas cletrônicas dos âlomos."
+sintetica_054.jpg,Completo + binarização,0.05089820359281437,0.2549019607843137,0.6979130832950129,1.3,5.316387399972882,"tabela periódica organiza os elementos químicos em ordem crcscente de
+número atômico; que correspondc quantidade de prótons no núcleo. As
+colunas são chamadas de famílías ou grupos € rcúnem clementos com
+propriedades químicas semelhantcs. As linhas horizontais são os períodos -
+indicam número de camadas eletrônicas dos alomos."
+sintetica_055.jpg,Sem pré-processamento,0.5597667638483965,0.7878787878787878,0.9585175731781121,0.0,9.327074500033632,"Uma reação de
+uma base formando sal neutralização acontece quando um
+entre 0 ácido e água  Um exemplo ácido reage com
+cloreto de clorídrico e 0 hidróxido clássico é a reação
+sódio 0 sal de sódio
+solução: valores abaixo de de cozinha . 7 0 pH mede a acidez que produz
+meio básico e indicam meio de uma
+igual a 7 meio neutro. ácido acima de 7"
+sintetica_055.jpg,Iluminação + inclinação,0.03206997084548105,0.16666666666666666,0.9627684768822085,5.65,9.765374600014184,"Uma reação de neutralização acontece quando um ácido reage com
+uma base formando sal e água _ Um exemplo clássico é a reação
+entre 0 ácido clorídrico e 0 hidróxido de sódio, que produz
+cloreto de sódio 0 sal de cozinha 0 pH mede a acidez de uma
+solução: valores abaixo de 7 indicam meio ácido acima de 7
+meio básico e igual a 7 meio neutro_"
+sintetica_055.jpg,Completo (+ remoção de ruído),0.029154518950437316,0.15151515151515152,0.9400899990008749,5.65,9.664696799998637,"Uma reação de neutralização acontece quando um ácido reage com
+uma base, formando sal e água _ Um exemplo clássico é a reação
+entre 0 ácido clorídrico e 0 hidróxido de sódio, que produz
+cloreto de sódio 0 sal de cozinha 0 pH mede a acidez de uma
+solução: valores abaixo de 7 indicam meio ácido_ acima de 7
+meio básico e igual a 7 meio neutro"
+sintetica_055.jpg,Completo + binarização,0.04081632653061224,0.19696969696969696,0.905640798077893,5.65,9.682690099987667,"Uma reação de neutralização acontece quando Um ácido reage com
+uma base  formando sal e água _ Um exemplo clássico é a reação
+entre 0 ácido clorídrico e 0 hidróxido de sódio, que produz
+cloreto de sódio, sal de cozinha_ 0 pH mede a acidez de uma
+solução = valores abaixo de 7 indicam meio ácido_ acima de 7
+meio básico e igual a 7 meio neutro_"
+sintetica_056.jpg,Sem pré-processamento,0.0031746031746031746,0.019230769230769232,0.8250701126193344,0.0,4.890133499982767,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas e irregulares, concentradas em poucos
+meses do ano. A vegetação típica dessa região é a Caatinga, formada por
+plantas adaptadas à falta de água, como cactos e árvores que perdem as
+folhas durante a estação seca."
+sintetica_056.jpg,Iluminação + inclinação,0.006349206349206349,0.057692307692307696,0.7623796687297946,-1.1,5.274271500005852,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas e irregulares , concentradas em poucos
+meses do ano. A vegetação típica dessa região é a Caatinga, formada por
+plantas adaptadas à falta de água, como cactos e árvores que perdem as
+folhas durante a estação seca."
+sintetica_056.jpg,Completo (+ remoção de ruído),0.006349206349206349,0.038461538461538464,0.7936106557839937,-1.1,6.754065000044648,"0 clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas e irregulares, concentradas em poucos
+meses do ano. A vegetação típica dessa região é a Caatinga; formada por
+plantas adaptadas à falta de água, como cactos e árvores que perdem as
+folhas durante a estação seca."
+sintetica_056.jpg,Completo + binarização,0.01904761904761905,0.07692307692307693,0.8557291511143945,-1.1,7.177796899981331,"clima semiárido predomina em grande parte do Nordeste brasileiro e se
+caracteriza por chuvas escassas irregulares, concentradas em poucos
+meses do ano A vegetação típica dessa região é a Caatinga; formada por
+plantas adaptadas à falta de água, como cactos e árvores que perdem as
+folhas durante a estação seca."
+sintetica_057.jpg,Sem pré-processamento,0.46794871794871795,0.6538461538461539,0.9088655171331175,0.0,8.415310400014278,"As placas tectônicas são
+movimentam lentamente sobre grandes blocos que formam a litosfera se
+manto Nas bordas onde
+encontram ocorrem terremotos , as placas se
+montanhas A Cordi lheira vulcões e formação de cadeias de
+entre a placa de Nazca dos Andes , por exemplo , surgiu do choque
+placa Sul-Americana"
+sintetica_057.jpg,Iluminação + inclinação,0.05128205128205128,0.28846153846153844,0.9773345916494361,3.45,8.916946799959987,"As placas tectônicas são grandes blocos que formam a itosfera se
+movimentam lentamente sobre manto Nas bordas onde as placas se
+encontram ocorrem terremotos , vulcões e a formação de cadeias de
+montanhas A Cordilheira dos Andes , por exemplo , surgiu do choque
+entre placa de Nazca a placa Sul Americana"
+sintetica_057.jpg,Completo (+ remoção de ruído),0.028846153846153848,0.19230769230769232,0.9312209511939312,3.5,9.946710299991537,"As placas tectônicas são grandes blocos que formam a litosfera se
+movimentam lentamente sobre 0 manto Nas bordas onde as placas se
+encontram ocorrem terremotos , vulcões e a formação de cadeias de
+montanhas A Cordilheira dos Andes , por exemplo, surgiu do choque
+entre a placa de Nazca e a placa Sul Americana"
+sintetica_057.jpg,Completo + binarização,0.035256410256410256,0.17307692307692307,0.9328279237019583,3.5,8.58521109999856,"As placas tectônicas são grandes blocos que formam a litosfera se
+movimentam lentamente sobre 0 manto Nas bordas onde as placas se
+encontram ocorrem terremotos_ vulcões e a formação de cadeias de
+montanhas A Cordilheira dos Andes  por exemplo, surgiu do choque
+entre a placa de Nazca a placa Sul-Americana _"
+sintetica_058.jpg,Sem pré-processamento,0.0106951871657754,0.07017543859649122,0.8278557519741081,0.0,7.461643900023773,"Um algoritmo é uma sequência finita de passos bem definidos
+para resolver um problema. Em programação, as estruturas de
+decisão, como 0 comando if, permitem executar trechos
+diferentes conforme uma condição, enquanto as estruturas de
+repetição, como for e while, executam 0 mesmo bloco várias
+vezes. Variáveis armazenam 0s valores que 0 programa
+manipula durante a execução."
+sintetica_058.jpg,Iluminação + inclinação,0.0106951871657754,0.07017543859649122,0.7245064460391256,-0.5,7.2818146999925375,"Um algoritmo é uma sequência finita de passos bem definidos
+para resolver um problema. Em programação, as estruturas de
+decisão, como 0 comando if, permitem executar trechos
+diferentes conforme uma condição, enquanto as estruturas de
+repetição, como for e while, executam 0 mesmo bloco várias
+vezes. Variáveis armazenam os valores que 0 programa
+manipula durante a execução,"
+sintetica_058.jpg,Completo (+ remoção de ruído),0.013368983957219251,0.08771929824561403,0.7536086268865738,-0.45,8.708519899984822,"Um algoritmo é uma sequência finita de passos bem definidos
+para resolver um problema. Em programação, as estruturas de
+decisão, como 0 comando if, permitem executar trechos
+diferentes conforme uma condição, enquanto as estruturas de
+repetição, como for e while, executam 0 mesmo bloco várias
+vezes. Variáveis armazenam o5 valores que 0 programa
+manipula durante a execução,"
+sintetica_058.jpg,Completo + binarização,0.02406417112299465,0.15789473684210525,0.747536685911242,-0.45,7.476886899967212,"Um algoritmo uma sequência finita de passos bem definidos
+para resolver um problema. Em programação; as estruturas de
+decisão, como 0 comando if, permitem executar trechos
+diferentes conforme uma condição, enquanto as estruturas de
+repetição; como for e while; executam 0 mesmo bloco várias
+vezes . Variáveis armazenam os valores que 0 programa
+manipula durante a execução."
+sintetica_059.jpg,Sem pré-processamento,0.3994413407821229,0.5151515151515151,0.8960710186755055,0.0,7.166151400015224,"A busca em
+visitando largura, conhecida pela sigla BFS, explora
+primeiro todos os vizinhos um grafo
+para os níveis seguintes. Ela usa uma fila e de um nó antes de avançar
+0
+segue um caminho menor número de arestas. Já a busca em profundidade, encontra 0 caminho com
+até 0 fim antes ou DFS,
+implementada com de voltar; e costuma ser
+uma pilha ou com recursão ."
+sintetica_059.jpg,Iluminação + inclinação,0.0111731843575419,0.06060606060606061,0.8413190841909695,4.2,7.946614800021052,"A busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes. Ela usa uma fila e encontra 0 caminho com
+0 menor número de arestas. Já a busca em profundidade, ou DFS
+segue um caminho até 0 fim antes de voltar, e costuma ser
+implementada com uma pilha ou com recursão."
+sintetica_059.jpg,Completo (+ remoção de ruído),0.008379888268156424,0.045454545454545456,0.8272589301206628,4.2,8.67209449998336,"A busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes. Ela usa uma fila e encontra 0 caminho com
+0 menor número de arestas. Já a busca em profundidade, ou DFS,
+segue um caminho até 0 fim antes de voltar, e costuma ser
+implementada com uma pilha ou com recursão."
+sintetica_059.jpg,Completo + binarização,0.0223463687150838,0.10606060606060606,0.841205565832451,4.2,9.216229400015436,"busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes. Ela usa uma fila e encontra 0 caminho com
+menor número de arestas. Já a busca em profundidade, ou DFS,
+segue um caminho até 0 fim antes de voltar , e costuma ser
+implementada com uma pilha ou com recursão"
