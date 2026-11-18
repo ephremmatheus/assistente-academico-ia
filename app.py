@@ -78,10 +78,10 @@ material = assistente.material
 coluna_imagem, coluna_info = st.columns([1, 1])
 with coluna_imagem:
     aba_original, aba_tratada = st.tabs(["Original", "Pré-processada"])
-    aba_original.image(conteudo, use_container_width=True)
+    aba_original.image(conteudo, width="stretch")
     if preprocessada is not None:
         aba_tratada.image(cv2.cvtColor(preprocessada, cv2.COLOR_GRAY2RGB) if preprocessada.ndim == 2
-                          else preprocessada, use_container_width=True)
+                          else preprocessada, width="stretch")
 with coluna_info:
     m1, m2 = st.columns(2)
     m1.metric("Matéria", material.materia or "—", f"{material.probabilidade_materia:.0%} de probabilidade",
