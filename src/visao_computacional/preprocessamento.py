@@ -28,6 +28,19 @@ def redimensionar(cinza: np.ndarray, largura_minima: int = 1200) -> np.ndarray:
     return cv2.resize(cinza, None, fx=fator, fy=fator, interpolation=cv2.INTER_CUBIC)
 
 
+def limitar_tamanho(imagem: np.ndarray, lado_maximo: int = 2000) -> np.ndarray:
+    """Reduz fotos muito grandes (celulares geram 12 MP ou mais).
+
+    Acima de ~2000 px o OCR fica muito mais lento em CPU sem ler melhor, porque
+    as letras de uma página fotografada inteira já têm altura de sobra.
+    """
+    maior = max(imagem.shape[:2])
+    if maior <= lado_maximo:
+        return imagem
+    fator = lado_maximo / maior
+    return cv2.resize(imagem, None, fx=fator, fy=fator, interpolation=cv2.INTER_AREA)
+
+
 def remover_ruido(cinza: np.ndarray, forca: int = 10) -> np.ndarray:
     """Suaviza o ruído (granulado da câmera) preservando as bordas das letras.
 

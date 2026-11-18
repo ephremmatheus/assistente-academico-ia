@@ -22,7 +22,7 @@ from typing import Protocol
 import numpy as np
 
 from .io_imagem import carregar_imagem
-from .preprocessamento import ConfigPreprocessamento, ResultadoPreprocessamento, preprocessar
+from .preprocessamento import ConfigPreprocessamento, ResultadoPreprocessamento, limitar_tamanho, preprocessar
 
 TESSERACT_WINDOWS = Path(r"C:\Program Files\Tesseract-OCR\tesseract.exe")
 
@@ -191,6 +191,7 @@ def ler_imagem(
     usar_preprocessamento: bool = True,
 ) -> tuple[ResultadoOCR, ResultadoPreprocessamento | None]:
     """Pré-processa (opcional) e roda o OCR. Ponto de entrada usado pelo resto do sistema."""
+    imagem = limitar_tamanho(imagem)
     if not usar_preprocessamento:
         return motor.reconhecer(imagem), None
     preparado = preprocessar(imagem, config)
