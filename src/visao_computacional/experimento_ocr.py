@@ -22,19 +22,18 @@ import argparse
 import time
 from pathlib import Path
 
-import matplotlib
+import matplotlib.pyplot as plt
+import pandas as pd
 
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt  # noqa: E402
-import pandas as pd  # noqa: E402
+from src.caminhos import EXEMPLOS, GRAFICOS, IMAGENS_SINTETICAS, RESULTADOS
+from src.graficos import COR_GRADE, COR_SERIE_1, COR_SERIE_2, COR_TEXTO, COR_TEXTO_SECUNDARIO
+from src.graficos import estilizar_eixos as _estilizar_eixos
 
-from src.caminhos import EXEMPLOS, GRAFICOS, IMAGENS_SINTETICAS, RESULTADOS  # noqa: E402
-
-from .avaliacao import cer, wer  # noqa: E402
-from .gerar_imagens_sinteticas import gerar  # noqa: E402
-from .io_imagem import carregar_imagem  # noqa: E402
-from .ocr import criar_motor  # noqa: E402
-from .preprocessamento import ConfigPreprocessamento, preprocessar  # noqa: E402
+from .avaliacao import cer, wer
+from .gerar_imagens_sinteticas import gerar
+from .io_imagem import carregar_imagem
+from .ocr import criar_motor
+from .preprocessamento import ConfigPreprocessamento, preprocessar
 
 CONFIGURACOES: dict[str, ConfigPreprocessamento | None] = {
     "Sem pré-processamento": None,
@@ -42,14 +41,6 @@ CONFIGURACOES: dict[str, ConfigPreprocessamento | None] = {
     "Completo (+ remoção de ruído)": ConfigPreprocessamento(),
     "Completo + binarização": ConfigPreprocessamento(binarizar=True),
 }
-
-# Cores e tinta dos gráficos: uma cor por série, texto sempre em tons neutros.
-COR_SERIE_1 = "#2a78d6"
-COR_SERIE_2 = "#eb6834"
-COR_TEXTO = "#0b0b0b"
-COR_TEXTO_SECUNDARIO = "#52514e"
-COR_GRADE = "#e4e3df"
-
 
 def listar_pares(pasta: Path) -> list[tuple[Path, Path]]:
     """Encontra imagens que têm um .txt com o mesmo nome (o gabarito)."""
@@ -111,15 +102,6 @@ def resumir(df: pd.DataFrame) -> pd.DataFrame:
         tempo_medio_s=("tempo_s", "mean"),
     )
     return resumo.reindex(list(CONFIGURACOES)).reset_index()
-
-
-def _estilizar_eixos(ax) -> None:
-    for lado in ("top", "right", "left"):
-        ax.spines[lado].set_visible(False)
-    ax.spines["bottom"].set_color(COR_TEXTO_SECUNDARIO)
-    ax.tick_params(colors=COR_TEXTO_SECUNDARIO, length=0)
-    ax.grid(axis="x", color=COR_GRADE, linewidth=0.8)
-    ax.set_axisbelow(True)
 
 
 def grafico_cer_por_configuracao(resumo: pd.DataFrame, motor: str, destino: Path) -> None:

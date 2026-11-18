@@ -11,6 +11,7 @@ env/
 
 # Dados gerados (recriar com: python -m src.visao_computacional.gerar_imagens_sinteticas)
 dados/sinteticas/
+dados/cache_wikipedia/
 
 # Segredos
 .env
