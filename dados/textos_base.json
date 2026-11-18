@@ -1,50 +1,62 @@
 [
   {
     "materia": "Biologia",
+    "titulo": "Fotossíntese",
     "texto": "A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem energia luminosa em energia química. Nos cloroplastos, a clorofila absorve a luz e, a partir de gás carbônico e água, a célula produz glicose e libera oxigênio. Esse processo ocorre em duas fases: a fase clara, que depende diretamente da luz, e a fase escura, também chamada de ciclo de Calvin."
   },
   {
     "materia": "Biologia",
+    "titulo": "Mitose e meiose",
     "texto": "A mitose é a divisão celular que origina duas células-filhas geneticamente idênticas à célula-mãe. Ela é dividida em prófase, metáfase, anáfase e telófase. Já a meiose produz quatro células com metade do número de cromossomos e é responsável pela formação dos gametas, contribuindo para a variabilidade genética das espécies."
   },
   {
     "materia": "História",
+    "titulo": "Revolução Industrial",
     "texto": "A Revolução Industrial começou na Inglaterra, na segunda metade do século XVIII. A substituição do trabalho manual pelas máquinas, especialmente com o uso da máquina a vapor, transformou a produção têxtil e acelerou o crescimento das cidades. Ao mesmo tempo, surgiram jornadas de trabalho longas e condições precárias nas fábricas, o que deu origem aos primeiros movimentos operários."
   },
   {
     "materia": "História",
+    "titulo": "Independência do Brasil",
     "texto": "A Independência do Brasil foi proclamada em 7 de setembro de 1822, por Dom Pedro I, às margens do riacho Ipiranga, em São Paulo. O processo foi influenciado pela volta da família real a Portugal e pela pressão das Cortes portuguesas para que o Brasil retornasse à condição de colônia. Após a independência, o país adotou a monarquia como forma de governo."
   },
   {
     "materia": "Matemática",
+    "titulo": "Teorema de Pitágoras",
     "texto": "O teorema de Pitágoras afirma que, em todo triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos. A hipotenusa é o lado oposto ao ângulo reto e também o maior lado do triângulo. Por exemplo, se os catetos medem 3 e 4 centímetros, a hipotenusa mede 5 centímetros, pois nove mais dezesseis é igual a vinte e cinco."
   },
   {
     "materia": "Matemática",
+    "titulo": "Função do primeiro grau",
     "texto": "Uma função do primeiro grau tem a forma f(x) = ax + b, em que a e b são números reais e a é diferente de zero. Seu gráfico é sempre uma reta. O coeficiente a indica a inclinação da reta: quando ele é positivo, a função é crescente, e quando é negativo, a função é decrescente. O coeficiente b indica o ponto em que a reta corta o eixo y."
   },
   {
     "materia": "Química",
+    "titulo": "Tabela periódica",
     "texto": "A tabela periódica organiza os elementos químicos em ordem crescente de número atômico, que corresponde à quantidade de prótons no núcleo. As colunas são chamadas de famílias ou grupos e reúnem elementos com propriedades químicas semelhantes. As linhas horizontais são os períodos e indicam o número de camadas eletrônicas dos átomos."
   },
   {
     "materia": "Química",
+    "titulo": "Reação de neutralização",
     "texto": "Uma reação de neutralização acontece quando um ácido reage com uma base, formando sal e água. Um exemplo clássico é a reação entre o ácido clorídrico e o hidróxido de sódio, que produz cloreto de sódio, o sal de cozinha. O pH mede a acidez de uma solução: valores abaixo de 7 indicam meio ácido, acima de 7 meio básico e igual a 7 meio neutro."
   },
   {
     "materia": "Geografia",
+    "titulo": "Clima semiárido",
     "texto": "O clima semiárido predomina em grande parte do Nordeste brasileiro e se caracteriza por chuvas escassas e irregulares, concentradas em poucos meses do ano. A vegetação típica dessa região é a Caatinga, formada por plantas adaptadas à falta de água, como cactos e árvores que perdem as folhas durante a estação seca."
   },
   {
     "materia": "Geografia",
+    "titulo": "Placas tectônicas",
     "texto": "As placas tectônicas são grandes blocos que formam a litosfera e se movimentam lentamente sobre o manto. Nas bordas onde as placas se encontram ocorrem terremotos, vulcões e a formação de cadeias de montanhas. A Cordilheira dos Andes, por exemplo, surgiu do choque entre a placa de Nazca e a placa Sul-Americana."
   },
   {
     "materia": "Programação",
+    "titulo": "Algoritmos",
     "texto": "Um algoritmo é uma sequência finita de passos bem definidos para resolver um problema. Em programação, as estruturas de decisão, como o comando if, permitem executar trechos diferentes conforme uma condição, enquanto as estruturas de repetição, como for e while, executam o mesmo bloco várias vezes. Variáveis armazenam os valores que o programa manipula durante a execução."
   },
   {
     "materia": "Programação",
+    "titulo": "Busca em largura e em profundidade",
     "texto": "A busca em largura, conhecida pela sigla BFS, explora um grafo visitando primeiro todos os vizinhos de um nó antes de avançar para os níveis seguintes. Ela usa uma fila e encontra o caminho com o menor número de arestas. Já a busca em profundidade, ou DFS, segue um caminho até o fim antes de voltar, e costuma ser implementada com uma pilha ou com recursão."
   }
 ]

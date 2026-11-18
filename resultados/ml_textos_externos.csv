@@ -1,0 +1,4 @@
+conjunto,textos,acuracia,f1_macro
+Textos-base (limpos),12,1.0000,1.0000
+OCR sem pré-processamento,60,1.0000,1.0000
+OCR com pré-processamento,60,1.0000,1.0000

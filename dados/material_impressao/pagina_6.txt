@@ -1,0 +1,17 @@
+Programação
+Algoritmos
+Um algoritmo é uma sequência finita de passos bem definidos para
+resolver um problema. Em programação, as estruturas de decisão,
+como o comando if, permitem executar trechos diferentes
+conforme uma condição, enquanto as estruturas de repetição,
+como for e while, executam o mesmo bloco várias vezes. Variáveis
+armazenam os valores que o programa manipula durante a
+execução.
+Busca em largura e em profundidade
+A busca em largura, conhecida pela sigla BFS, explora um grafo
+visitando primeiro todos os vizinhos de um nó antes de avançar
+para os níveis seguintes. Ela usa uma fila e encontra o caminho
+com o menor número de arestas. Já a busca em profundidade, ou
+DFS, segue um caminho até o fim antes de voltar, e costuma ser
+implementada com uma pilha ou com recursão.
+Página 6

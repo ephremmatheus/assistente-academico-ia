@@ -1,0 +1,5 @@
+modelo,acuracia_media,acuracia_desvio,f1_macro_medio,f1_macro_desvio
+Naive Bayes (palavras),0.8786,0.0285,0.8694,0.0332
+SVM linear (caracteres),0.8674,0.0399,0.8572,0.0395
+SVM linear (palavras),0.8631,0.0311,0.8536,0.0295
+Regressão Logística (palavras),0.8599,0.0290,0.8497,0.0259

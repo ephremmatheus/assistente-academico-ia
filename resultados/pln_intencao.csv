@@ -1,0 +1,52 @@
+pagina,pergunta,intencao,tem_resposta,resposta_esperada,intencao_prevista
+1,O que é a fotossíntese?,definicao,1,"processo pelo qual plantas, algas e algumas bactérias convertem energia luminosa em energia química",definicao
+1,Onde ocorre a fotossíntese?,factual,1,Nos cloroplastos,factual
+1,Quais são as fases da fotossíntese?,lista,1,"a fase clara, que depende diretamente da luz, e a fase escura",lista
+1,Como também é chamada a fase escura?,factual,1,ciclo de Calvin,factual
+1,Quais são as etapas da mitose?,lista,1,"prófase, metáfase, anáfase e telófase",lista
+1,O que a meiose produz?,factual,1,quatro células com metade do número de cromossomos,factual
+1,O que é a mitose?,definicao,1,divisão celular que origina duas células-filhas geneticamente idênticas à célula-mãe,definicao
+1,Resuma o texto sobre fotossíntese,resumo,1,,resumo
+1,O que é a respiração celular?,definicao,0,,definicao
+2,Onde começou a Revolução Industrial?,factual,1,na Inglaterra,factual
+2,Quando começou a Revolução Industrial?,factual,1,na segunda metade do século XVIII,factual
+2,Qual máquina transformou a produção têxtil?,factual,1,máquina a vapor,factual
+2,Quando foi proclamada a Independência do Brasil?,factual,1,7 de setembro de 1822,factual
+2,Quem proclamou a independência?,factual,1,Dom Pedro I,factual
+2,Qual forma de governo o Brasil adotou após a independência?,factual,1,adotou a monarquia,factual
+2,Faça um resumo da Revolução Industrial,resumo,1,,resumo
+2,Quem foi o primeiro presidente do Brasil?,factual,0,,factual
+2,Quando terminou a Segunda Guerra Mundial?,factual,0,,factual
+3,O que afirma o teorema de Pitágoras?,definicao,1,o quadrado da hipotenusa é igual à soma dos quadrados dos catetos,definicao
+3,O que é a hipotenusa?,definicao,1,o lado oposto ao ângulo reto,definicao
+3,"Se os catetos medem 3 e 4, quanto mede a hipotenusa?",factual,1,a hipotenusa mede 5 centímetros,factual
+3,Qual é a forma de uma função do primeiro grau?,factual,1,f(x) = ax + b,factual
+3,Como é o gráfico de uma função do primeiro grau?,factual,1,sempre uma reta,factual
+3,Quando a função do primeiro grau é crescente?,factual,1,"quando ele é positivo, a função é crescente",factual
+3,O que indica o coeficiente b?,factual,1,o ponto em que a reta corta o eixo y,factual
+3,Resuma o conteúdo da página,resumo,1,,resumo
+3,Como calcular a área de um círculo?,factual,0,,factual
+4,Como a tabela periódica organiza os elementos?,factual,1,em ordem crescente de número atômico,factual
+4,O que é o número atômico?,definicao,1,quantidade de prótons no núcleo,definicao
+4,O que indicam os períodos da tabela periódica?,factual,1,indicam o número de camadas eletrônicas dos átomos,factual
+4,O que é uma reação de neutralização?,definicao,1,"quando um ácido reage com uma base, formando sal e água",definicao
+4,Qual sal é produzido entre ácido clorídrico e hidróxido de sódio?,factual,1,cloreto de sódio,factual
+4,Qual é o pH de uma solução neutra?,factual,1,igual a 7 meio neutro,factual
+4,Resuma a página de química,resumo,1,,resumo
+4,O que é um isótopo?,definicao,0,,definicao
+5,Onde predomina o clima semiárido?,factual,1,em grande parte do Nordeste brasileiro,factual
+5,Como são as chuvas no semiárido?,factual,1,chuvas escassas e irregulares,factual
+5,Qual é a vegetação típica do semiárido?,factual,1,a Caatinga,factual
+5,O que são placas tectônicas?,definicao,1,grandes blocos que formam a litosfera,definicao
+5,Quais fenômenos ocorrem nas bordas das placas?,lista,1,"terremotos, vulcões e a formação de cadeias de montanhas",factual
+5,Como surgiu a Cordilheira dos Andes?,factual,1,do choque entre a placa de Nazca e a placa Sul-Americana,factual
+5,Qual é o maior rio do Brasil?,factual,0,,factual
+5,Quais são os biomas do Sul do Brasil?,lista,0,,lista
+6,O que é um algoritmo?,definicao,1,uma sequência finita de passos bem definidos para resolver um problema,definicao
+6,Para que servem as estruturas de decisão?,factual,1,permitem executar trechos diferentes conforme uma condição,factual
+6,Quais são exemplos de estruturas de repetição?,lista,1,como for e while,lista
+6,O que as variáveis armazenam?,factual,1,os valores que o programa manipula durante a execução,factual
+6,Qual estrutura de dados a busca em largura usa?,factual,1,Ela usa uma fila,factual
+6,O que é a busca em profundidade?,definicao,1,segue um caminho até o fim antes de voltar,definicao
+6,Do que trata o texto sobre busca em largura?,resumo,1,,resumo
+6,O que é programação orientada a objetos?,definicao,0,,definicao

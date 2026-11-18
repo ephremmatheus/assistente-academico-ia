@@ -1,0 +1,16 @@
+Matemática
+Teorema de Pitágoras
+O teorema de Pitágoras afirma que, em todo triângulo retângulo,
+o quadrado da hipotenusa é igual à soma dos quadrados dos
+catetos. A hipotenusa é o lado oposto ao ângulo reto e também o
+maior lado do triângulo. Por exemplo, se os catetos medem 3 e 4
+centímetros, a hipotenusa mede 5 centímetros, pois nove mais
+dezesseis é igual a vinte e cinco.
+Função do primeiro grau
+Uma função do primeiro grau tem a forma f(x) = ax + b, em que a
+e b são números reais e a é diferente de zero. Seu gráfico é
+sempre uma reta. O coeficiente a indica a inclinação da reta:
+quando ele é positivo, a função é crescente, e quando é negativo,
+a função é decrescente. O coeficiente b indica o ponto em que a
+reta corta o eixo y.
+Página 3

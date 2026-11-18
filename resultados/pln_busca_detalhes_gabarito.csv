@@ -1,0 +1,77 @@
+metodo,pagina,pergunta,posicao_correta,similaridade_top1
+caracteres,1,O que é a fotossíntese?,1,0.4254070092847561
+caracteres,1,Onde ocorre a fotossíntese?,3,0.48959263680181664
+caracteres,1,Quais são as fases da fotossíntese?,1,1.0924372554295885
+caracteres,1,Como também é chamada a fase escura?,1,0.5302737563708733
+caracteres,1,Quais são as etapas da mitose?,1,0.8963359192548394
+caracteres,1,O que a meiose produz?,1,0.3080149252734796
+caracteres,1,O que é a mitose?,2,0.4456639632706731
+caracteres,2,Onde começou a Revolução Industrial?,1,0.6824402824857736
+caracteres,2,Quando começou a Revolução Industrial?,1,0.6824402824857736
+caracteres,2,Qual máquina transformou a produção têxtil?,1,0.5831759797272993
+caracteres,2,Quando foi proclamada a Independência do Brasil?,1,0.6472352298944618
+caracteres,2,Quem proclamou a independência?,1,0.5027829707077922
+caracteres,2,Qual forma de governo o Brasil adotou após a independência?,1,0.8533230932987954
+caracteres,3,O que afirma o teorema de Pitágoras?,1,0.5612379602375868
+caracteres,3,O que é a hipotenusa?,1,0.32955508821617513
+caracteres,3,"Se os catetos medem 3 e 4, quanto mede a hipotenusa?",1,0.47698573048220705
+caracteres,3,Qual é a forma de uma função do primeiro grau?,2,0.8098628526457906
+caracteres,3,Como é o gráfico de uma função do primeiro grau?,1,1.0395252586896848
+caracteres,3,Quando a função do primeiro grau é crescente?,1,0.6502684634733499
+caracteres,3,O que indica o coeficiente b?,1,0.5995316511705113
+caracteres,4,Como a tabela periódica organiza os elementos?,1,0.5817685384237582
+caracteres,4,O que é o número atômico?,1,0.33305465737816786
+caracteres,4,O que indicam os períodos da tabela periódica?,1,0.5737986538484567
+caracteres,4,O que é uma reação de neutralização?,1,0.6913725294982596
+caracteres,4,Qual sal é produzido entre ácido clorídrico e hidróxido de sódio?,1,0.6993916998647766
+caracteres,4,Qual é o pH de uma solução neutra?,1,0.4079396050277639
+caracteres,5,Onde predomina o clima semiárido?,1,0.5277652691447626
+caracteres,5,Como são as chuvas no semiárido?,1,0.4272375219788267
+caracteres,5,Qual é a vegetação típica do semiárido?,1,0.47714109082246614
+caracteres,5,O que são placas tectônicas?,1,0.5330827605910353
+caracteres,5,Quais fenômenos ocorrem nas bordas das placas?,1,0.5234416800079795
+caracteres,5,Como surgiu a Cordilheira dos Andes?,1,0.5642951718792923
+caracteres,6,O que é um algoritmo?,1,0.4452260239702871
+caracteres,6,Para que servem as estruturas de decisão?,1,0.4740179752566567
+caracteres,6,Quais são exemplos de estruturas de repetição?,1,1.039496252238956
+caracteres,6,O que as variáveis armazenam?,1,0.5625232031451433
+caracteres,6,Qual estrutura de dados a busca em largura usa?,1,0.44931908259010217
+caracteres,6,O que é a busca em profundidade?,2,0.5939183104600113
+palavras,1,O que é a fotossíntese?,1,0.24664985457863303
+palavras,1,Onde ocorre a fotossíntese?,3,0.2687272833385065
+palavras,1,Quais são as fases da fotossíntese?,1,0.537454566677013
+palavras,1,Como também é chamada a fase escura?,1,0.4431779910134613
+palavras,1,Quais são as etapas da mitose?,1,0.6573578721255385
+palavras,1,O que a meiose produz?,1,0.3162120314768201
+palavras,1,O que é a mitose?,2,0.32867893606276927
+palavras,2,Onde começou a Revolução Industrial?,1,0.5316010510447019
+palavras,2,Quando começou a Revolução Industrial?,1,0.5316010510447019
+palavras,2,Qual máquina transformou a produção têxtil?,1,0.45399616903733847
+palavras,2,Quando foi proclamada a Independência do Brasil?,1,0.45745733503929065
+palavras,2,Quem proclamou a independência?,2,0.299356520116193
+palavras,2,Qual forma de governo o Brasil adotou após a independência?,1,0.705841689413857
+palavras,3,O que afirma o teorema de Pitágoras?,1,0.45923985703965364
+palavras,3,O que é a hipotenusa?,1,0.16927418864011054
+palavras,3,"Se os catetos medem 3 e 4, quanto mede a hipotenusa?",1,0.407409293709338
+palavras,3,Qual é a forma de uma função do primeiro grau?,2,0.6979102300285152
+palavras,3,Como é o gráfico de uma função do primeiro grau?,1,0.8454555990418924
+palavras,3,Quando a função do primeiro grau é crescente?,2,0.6295044452170616
+palavras,3,O que indica o coeficiente b?,1,0.3366857779075872
+palavras,4,Como a tabela periódica organiza os elementos?,1,0.5251111580607686
+palavras,4,O que é o número atômico?,1,0.31776129350157717
+palavras,4,O que indicam os períodos da tabela periódica?,1,0.43049752249495155
+palavras,4,O que é uma reação de neutralização?,1,0.47494486698983907
+palavras,4,Qual sal é produzido entre ácido clorídrico e hidróxido de sódio?,1,0.5826155746554599
+palavras,4,Qual é o pH de uma solução neutra?,1,0.2500242888516555
+palavras,5,Onde predomina o clima semiárido?,1,0.43892909006419184
+palavras,5,Como são as chuvas no semiárido?,1,0.28654608562302375
+palavras,5,Qual é a vegetação típica do semiárido?,1,0.31866537586228166
+palavras,5,O que são placas tectônicas?,1,0.4522755771382717
+palavras,5,Quais fenômenos ocorrem nas bordas das placas?,1,0.46221761619465773
+palavras,5,Como surgiu a Cordilheira dos Andes?,1,0.42435892747881776
+palavras,6,O que é um algoritmo?,1,0.24633757751220317
+palavras,6,Para que servem as estruturas de decisão?,1,0.3316034251554174
+palavras,6,Quais são exemplos de estruturas de repetição?,1,0.6632068503108348
+palavras,6,O que as variáveis armazenam?,1,0.4551839044480561
+palavras,6,Qual estrutura de dados a busca em largura usa?,1,0.5285784915594653
+palavras,6,O que é a busca em profundidade?,1,0.3733402174193336
